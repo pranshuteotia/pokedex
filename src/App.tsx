@@ -1,24 +1,24 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Display from "components/Display";
+import PokemonInfo from "components/PokemonInfo";
+import SearchBar from "components/SearchBar";
+import PokemonStatsInfo from "components/PokemonStatsInfo";
+import { useSelector } from "react-redux";
+import { PokemonMetadata } from "types";
+import TypeEffectiveness from "components/TypeEffectiveness";
 
 function App() {
+  const displaySearch = useSelector((state: any) => state.displaySearch.value);
+  const { name, image, type, stats }: PokemonMetadata = useSelector(
+    (state: any) => state.pokemonData.value
+  );
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <SearchBar displaySearch={displaySearch} />
+      <Display name={name} image={image} />
+      <PokemonInfo name={name} type={type} />
+      <PokemonStatsInfo stats={stats} />
+      <TypeEffectiveness />
     </div>
   );
 }
