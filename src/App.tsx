@@ -3,12 +3,12 @@ import PokemonInfo from "components/PokemonInfo";
 import SearchBar from "components/SearchBar";
 import PokemonStatsInfo from "components/PokemonStatsInfo";
 import { useSelector } from "react-redux";
-import { PokemonMetadata } from "types";
+import { PokemonData } from "types";
 import TypeEffectiveness from "components/TypeEffectiveness";
 
 function App() {
   const displaySearch = useSelector((state: any) => state.displaySearch.value);
-  const { name, image, type, stats }: PokemonMetadata = useSelector(
+  const { name, image, type, stats }: PokemonData = useSelector(
     (state: any) => state.pokemonData.value
   );
 

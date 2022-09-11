@@ -20,22 +20,13 @@ const Display = ({ name, image }: DisplayProps) => {
   const searchDisplayed = useSelector(
     (state: any) => state.displaySearch.value
   );
-  const [bgColor, setBgColor] = useState<string>("transparent");
+  const { bgColor } = useSelector((state: any) => state.pokemonData.value);
 
   const handlers = useSwipeable({
     onSwipedUp: () => hideSearchBar(),
     onSwipedDown: () => displaySearchBar(),
     preventScrollOnSwipe: true,
   });
-
-  const img = new Image();
-  img.src = image;
-  img.crossOrigin = "anonymous";
-
-  img.onload = () => {
-    const { hex } = new FastAverageColor().getColor(img);
-    setBgColor(hex);
-  };
 
   const toggleSearchBar = (): any => dispatch(toggleSearch());
   const displaySearchBar = (): any => dispatch(showSearch());

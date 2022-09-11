@@ -8,7 +8,8 @@ export const pokemonDataReducer = createSlice({
       name : "",
       image: "",
       type : [],
-      stats: []
+      stats: [],
+      bgColor: "",
     },
   },
   reducers: {

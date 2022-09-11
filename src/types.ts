@@ -8,6 +8,8 @@ export interface PokemonData {
   type: Array<string>;
   image: string;
   stats: Array<PokemonStats>
+  bgColor: string;
+  
 }
 
 export type PokemonType = {
@@ -44,11 +46,4 @@ export interface PokemonStats {
   statType: string;
   value: number;
   percentage: number;
-}
-
-export interface PokemonMetadata {
-  name: string;
-  image: string;
-  type: Array<string>
-  stats: Array<PokemonStats>
 }

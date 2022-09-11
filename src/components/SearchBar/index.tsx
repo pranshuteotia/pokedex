@@ -1,12 +1,9 @@
-import React, { ChangeEvent, useCallback, useEffect, useState } from "react";
+import React, { ChangeEvent, useState } from "react";
 
 import Fuse from "fuse.js";
 import pokemon from "pokemon";
 import { FuseResult } from "types";
 import SearchResults from "components/SearchResults";
-import axios from "axios";
-import { useDispatch } from "react-redux";
-import { setPokemonData } from "reducers/pokemonDataReducer";
 
 interface SearchBarProps {
   displaySearch: boolean;
@@ -16,8 +13,6 @@ const SearchBar = ({ displaySearch }: SearchBarProps) => {
   const fuse = new Fuse(pokemon.all(), {
     threshold: 0.4,
   });
-
-  const dispatch = useDispatch();
 
   const [searchQuery, setSearchQuery] = useState("");
   const [searchResults, setSearchResults] = useState<Array<string>>([]);
@@ -29,45 +24,10 @@ const SearchBar = ({ displaySearch }: SearchBarProps) => {
     setSearchQuery(enteredQuery);
   };
 
-  const fetchPokemonData = useCallback(
-    async (pokemonName: string) => {
-      const pokemonId = pokemon.getId(pokemonName);
-
-      setSearchQuery("");
-      setSearchResults([]);
-
-      const { data } = await axios.get(
-        `https://pokeapi.co/api/v2/pokemon/${pokemonId}/`
-      );
-
-      const name = pokemonName;
-      const image = data.sprites.other["official-artwork"].front_default;
-      const type = data.types.map((type: any) => type.type.name);
-      const stats = data.stats.map((stat: any) => {
-        return {
-          statType: stat.stat.name,
-          value: stat.base_stat,
-          percentage: Math.floor((stat.base_stat / 300) * 100),
-        };
-      });
-
-      dispatch(
-        setPokemonData({
-          id: pokemonId,
-          name,
-          image,
-          type,
-          stats,
-        })
-      );
-    },
-    [dispatch]
-  );
-
-  useEffect(() => {
-    const randomPokemonName = pokemon.random();
-    fetchPokemonData(randomPokemonName);
-  }, [fetchPokemonData]);
+  const resetSearch = () => {
+    setSearchQuery("");
+    setSearchResults([]);
+  };
 
   if (!displaySearch) return null;
 
@@ -81,10 +41,7 @@ const SearchBar = ({ displaySearch }: SearchBarProps) => {
         className="search-bar"
       />
       {!!searchResults.length && (
-        <SearchResults
-          results={searchResults}
-          fetchPokemonData={fetchPokemonData}
-        />
+        <SearchResults results={searchResults} resetSearch={resetSearch} />
       )}
     </div>
   );
