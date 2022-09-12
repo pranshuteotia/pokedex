@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[84828],{84828:function(e,p,d){e.exports=d.p+"static/media/pikachu.d20bdd5d52ce4df7f2b0.png"}}]);

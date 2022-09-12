@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[19622],{19622:function(e,p,c){e.exports=c.p+"static/media/litwick.f317071910612c4e8330.png"}}]);

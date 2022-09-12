@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[71745],{71745:function(e,p,d){e.exports=d.p+"static/media/wooper.b0d1d618dd0129501a0f.png"}}]);

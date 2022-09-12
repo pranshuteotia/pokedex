@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[95174],{95174:function(e,p,s){e.exports=s.p+"static/media/yungoos.269e8b08b4a871df7881.png"}}]);

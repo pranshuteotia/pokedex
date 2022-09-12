@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[7091],{7091:function(e,p,s){e.exports=s.p+"static/media/sceptile.3d5a096c26070574d1ed.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[63207],{63207:function(e,o,p){e.exports=p.p+"static/media/hoothoot.eb959569083b6bb00c17.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[26844],{26844:function(e,p,c){e.exports=c.p+"static/media/zorua.0f35f2f93843cc66e32a.png"}}]);

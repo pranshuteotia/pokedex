@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[86385],{86385:function(e,p,s){e.exports=s.p+"static/media/luxio.4d1893a8cd6b886283ae.png"}}]);

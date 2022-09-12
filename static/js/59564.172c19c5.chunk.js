@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[59564],{59564:function(e,p,s){e.exports=s.p+"static/media/ninjask.47cdeb76b15d03ee902e.png"}}]);

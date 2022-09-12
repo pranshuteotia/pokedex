@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[81218],{81218:function(e,p,a){e.exports=a.p+"static/media/phantump.1c668555b4a6c508da02.png"}}]);

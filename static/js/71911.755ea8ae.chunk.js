@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[71911],{71911:function(e,a,c){e.exports=c.p+"static/media/haunter.fa91bfcaca3a8f9ca691.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[31599],{31599:function(e,p,a){e.exports=a.p+"static/media/duraludon.3e7af4dac149535fe628.png"}}]);

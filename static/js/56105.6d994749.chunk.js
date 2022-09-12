@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[56105],{56105:function(e,p,s){e.exports=s.p+"static/media/milotic.5eb858fb21d1f3d92e38.png"}}]);

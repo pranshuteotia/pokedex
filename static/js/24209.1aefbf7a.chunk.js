@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[24209],{24209:function(e,p,c){e.exports=c.p+"static/media/victreebel.f1da9b6b819e84bc11af.png"}}]);

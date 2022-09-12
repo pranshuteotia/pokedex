@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[15347],{15347:function(e,c,p){e.exports=p.p+"static/media/lilligant.7cc359a4ba109bc31235.png"}}]);

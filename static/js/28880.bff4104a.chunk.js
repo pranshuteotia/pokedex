@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[28880],{28880:function(e,c,p){e.exports=p.p+"static/media/caterpie.dc7c88314d05fc96d217.png"}}]);

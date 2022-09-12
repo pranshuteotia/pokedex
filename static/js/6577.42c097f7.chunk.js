@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[6577],{6577:function(e,p,s){e.exports=s.p+"static/media/piloswine.06b67672c34ce9e8612b.png"}}]);

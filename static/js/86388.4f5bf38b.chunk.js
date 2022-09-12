@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[86388],{86388:function(e,p,f){e.exports=f.p+"static/media/gurdurr.1f0586ef094f80c7b8ef.png"}}]);

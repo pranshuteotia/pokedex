@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[50690],{50690:function(e,c,p){e.exports=p.p+"static/media/guzzlord.c7e200d63bc1aa1fb69c.png"}}]);

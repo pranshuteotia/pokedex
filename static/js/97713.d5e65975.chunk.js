@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[97713],{97713:function(e,p,t){e.exports=t.p+"static/media/hattrem.603fde0f5720093462ff.png"}}]);

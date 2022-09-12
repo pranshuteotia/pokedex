@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[48733],{48733:function(e,c,p){e.exports=p.p+"static/media/burmy.dc8abfcc9e77d770ac73.png"}}]);

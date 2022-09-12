@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[33193],{33193:function(e,p,s){e.exports=s.p+"static/media/drifblim.9b8c668ed22e4ab4bf39.png"}}]);

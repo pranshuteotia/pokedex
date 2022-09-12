@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[53593],{53593:function(e,p,s){e.exports=s.p+"static/media/bastiodon.f9ecd5f4b27e450c9384.png"}}]);

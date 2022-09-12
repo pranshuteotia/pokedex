@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[29731],{29731:function(e,p,s){e.exports=s.p+"static/media/swoobat.90fd2e9d9ee2194ef8da.png"}}]);

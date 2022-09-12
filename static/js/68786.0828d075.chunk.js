@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[68786],{68786:function(a,e,c){a.exports=c.p+"static/media/lugia.faf2a7af03a8ca31cac3.png"}}]);

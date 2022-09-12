@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[25572],{25572:function(e,p,s){e.exports=s.p+"static/media/dusknoir.505b572e00ef6f3eb517.png"}}]);

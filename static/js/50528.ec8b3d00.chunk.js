@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[50528],{50528:function(e,p,c){e.exports=c.p+"static/media/lampent.c01f6518d48c17947906.png"}}]);

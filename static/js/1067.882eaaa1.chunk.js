@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[1067],{1067:function(e,p,s){e.exports=s.p+"static/media/cascoon.16a426de50ead1e00732.png"}}]);

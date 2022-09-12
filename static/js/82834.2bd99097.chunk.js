@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[82834],{82834:function(e,p,s){e.exports=s.p+"static/media/palossand.65fbadbbbdb6b80936da.png"}}]);

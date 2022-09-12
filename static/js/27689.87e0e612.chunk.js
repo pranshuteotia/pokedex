@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[27689],{27689:function(e,p,s){e.exports=s.p+"static/media/foongus.e1edb0c0e2d439dab928.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[21796],{21796:function(e,p,t){e.exports=t.p+"static/media/cottonee.346a6e50a8923fd6c761.png"}}]);

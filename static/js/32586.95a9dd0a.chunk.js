@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[32586],{32586:function(e,p,s){e.exports=s.p+"static/media/buneary.a85807ff1368884de790.png"}}]);

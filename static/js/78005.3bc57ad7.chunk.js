@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[78005],{78005:function(e,p,c){e.exports=c.p+"static/media/floatzel.603ce8f5e6d457dc0f65.png"}}]);

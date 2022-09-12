@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[63839],{63839:function(e,a,p){e.exports=p.p+"static/media/oddish.5fa5f8eeedf3a0e3ad9a.png"}}]);

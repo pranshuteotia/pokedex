@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[30904],{30904:function(e,k,p){e.exports=p.p+"static/media/krokorok.d187575356708da0b15c.png"}}]);

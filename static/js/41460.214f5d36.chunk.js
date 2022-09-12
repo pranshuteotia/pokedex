@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[41460],{41460:function(e,p,s){e.exports=s.p+"static/media/frillish.42734b1478b89d5abe91.png"}}]);

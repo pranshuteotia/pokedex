@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[16997],{16997:function(e,p,s){e.exports=s.p+"static/media/serperior.c9a408e4e73b5bbc5b29.png"}}]);

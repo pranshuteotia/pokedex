@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[93959],{93959:function(e,p,s){e.exports=s.p+"static/media/combusken.fa6aae073d2f73e72d54.png"}}]);

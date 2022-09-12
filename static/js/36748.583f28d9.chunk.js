@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[36748],{36748:function(e,c,p){e.exports=p.p+"static/media/dialga.f2cdc0c776d344cb7da3.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[89691],{89691:function(e,s,p){e.exports=p.p+"static/media/aegislash.d08cf4f7ac743e6bdf6d.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[77542],{77542:function(e,p,s){e.exports=s.p+"static/media/skwovet.a9dd668e18cfa0bb19e4.png"}}]);

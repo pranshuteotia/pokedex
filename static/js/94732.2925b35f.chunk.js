@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[94732],{94732:function(e,p,c){e.exports=c.p+"static/media/deerling.21d31f3fbb99cab1c728.png"}}]);

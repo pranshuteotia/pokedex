@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[74312],{74312:function(e,p,s){e.exports=s.p+"static/media/corphish.798933ed9673be6b03d6.png"}}]);

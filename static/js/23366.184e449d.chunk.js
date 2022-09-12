@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[23366],{23366:function(e,a,p){e.exports=p.p+"static/media/altaria.8e5a6f53cf5924957405.png"}}]);

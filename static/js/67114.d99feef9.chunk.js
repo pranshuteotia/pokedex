@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[67114],{67114:function(e,p,a){e.exports=a.p+"static/media/palpitoad.95019051ab87f3f8edbe.png"}}]);

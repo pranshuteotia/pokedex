@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[90545],{90545:function(e,c,p){e.exports=p.p+"static/media/munchlax.80af3f8d6ecc56bdfe9c.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[5805],{5805:function(e,a,p){e.exports=p.p+"static/media/swanna.af2e799648487eb422ae.png"}}]);

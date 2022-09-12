@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[86547],{86547:function(e,p,a){e.exports=a.p+"static/media/baltoy.e7a7016542d980a43e36.png"}}]);

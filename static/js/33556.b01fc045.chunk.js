@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[33556],{33556:function(e,p,s){e.exports=s.p+"static/media/ekans.d382fc6b5280ceb680e9.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[29273],{29273:function(e,p,c){e.exports=c.p+"static/media/fearow.dc2eb90a2bf49c95691f.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[38943],{38943:function(e,p,s){e.exports=s.p+"static/media/sentret.a2eb9b9afc3a2b6501ed.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[37689],{37689:function(e,p,s){e.exports=s.p+"static/media/beedrill.4994e23767275a23e913.png"}}]);

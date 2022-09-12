@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[41880],{41880:function(e,p,s){e.exports=s.p+"static/media/gligar.d144bf0cd5d7af002b29.png"}}]);

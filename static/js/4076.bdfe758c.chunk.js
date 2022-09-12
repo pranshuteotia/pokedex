@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[4076],{4076:function(e,p,c){e.exports=c.p+"static/media/mudbray.ce4b96b1107eed771fcb.png"}}]);

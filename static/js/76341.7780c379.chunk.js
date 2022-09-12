@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[76341],{76341:function(e,p,k){e.exports=k.p+"static/media/kingdra.17214538ac755e4e131d.png"}}]);

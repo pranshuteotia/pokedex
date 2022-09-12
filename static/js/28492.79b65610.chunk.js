@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[28492],{28492:function(e,p,a){e.exports=a.p+"static/media/volcarona.974a0409fbeb1267b98c.png"}}]);

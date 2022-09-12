@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[95532],{95532:function(e,c,p){e.exports=p.p+"static/media/dewott.cc3ae5ced8a7bbaeeff2.png"}}]);

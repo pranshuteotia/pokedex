@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[35727],{35727:function(e,p,s){e.exports=s.p+"static/media/vaporeon.533ecbe1762b41e724fa.png"}}]);

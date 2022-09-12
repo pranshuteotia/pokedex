@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[15529],{15529:function(e,p,a){e.exports=a.p+"static/media/rillaboom.7c3ad147c7b15ae56772.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[7283],{7283:function(e,p,a){e.exports=a.p+"static/media/ledian.cf043ee98ae84dfcf8a3.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[62792],{62792:function(e,a,p){e.exports=p.p+"static/media/bouffalant.23780a508a359ffa064b.png"}}]);

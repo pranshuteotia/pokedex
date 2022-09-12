@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[4804],{4804:function(e,p,s){e.exports=s.p+"static/media/tauros.687b2fba1a679cd8bb6b.png"}}]);

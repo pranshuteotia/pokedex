@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[23236],{23236:function(e,p,a){e.exports=a.p+"static/media/durant.cadedb9b86d62a6c149b.png"}}]);

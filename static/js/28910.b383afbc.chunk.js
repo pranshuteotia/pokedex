@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[28910],{28910:function(e,p,a){e.exports=a.p+"static/media/liepard.287f3d8aa00f43b602e1.png"}}]);

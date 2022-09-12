@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[71034],{71034:function(e,p,t){e.exports=t.p+"static/media/hitmontop.7f8498d52b911a6ef1fc.png"}}]);

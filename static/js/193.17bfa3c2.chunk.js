@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[193],{193:function(e,p,s){e.exports=s.p+"static/media/duosion.3d2e0f7d78ea4020c286.png"}}]);

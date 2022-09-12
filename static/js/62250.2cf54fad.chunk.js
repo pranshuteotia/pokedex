@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[62250],{62250:function(e,p,s){e.exports=s.p+"static/media/magmar.0806210927b1f8dc5726.png"}}]);

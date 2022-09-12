@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[1173],{1173:function(e,p,s){e.exports=s.p+"static/media/mareanie.8b40193cd0e2830b8416.png"}}]);

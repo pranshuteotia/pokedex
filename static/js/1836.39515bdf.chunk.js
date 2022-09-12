@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[1836],{1836:function(e,p,s){e.exports=s.p+"static/media/dugtrio.6bb77c3aeaf1d489db44.png"}}]);

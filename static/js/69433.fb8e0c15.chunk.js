@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[69433],{69433:function(e,p,s){e.exports=s.p+"static/media/grumpig.3169d7e69d8b180a76e5.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[72701],{72701:function(e,p,s){e.exports=s.p+"static/media/sunkern.9bc55339486dd9fa5a65.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[79919],{79919:function(e,a,p){e.exports=p.p+"static/media/ariados.53986d795acbaab951df.png"}}]);

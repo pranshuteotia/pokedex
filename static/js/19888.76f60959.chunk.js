@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[19888],{19888:function(e,c,p){e.exports=p.p+"static/media/tyrunt.6cfd930cc53bb83fe760.png"}}]);

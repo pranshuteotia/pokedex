@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[54298],{54298:function(e,a,p){e.exports=p.p+"static/media/lanturn.2aff865f61a9aa67179a.png"}}]);

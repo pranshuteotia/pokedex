@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[32548],{32548:function(e,p,a){e.exports=a.p+"static/media/garbodor.09e30388b87941a5a1bc.png"}}]);

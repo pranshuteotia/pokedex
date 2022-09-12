@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[99325],{99325:function(e,p,s){e.exports=s.p+"static/media/snom.8a328124e5233a4c5af6.png"}}]);

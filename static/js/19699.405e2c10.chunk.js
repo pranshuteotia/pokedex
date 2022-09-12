@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[19699],{19699:function(e,p,s){e.exports=s.p+"static/media/shiftry.db029f01b60810e43a26.png"}}]);

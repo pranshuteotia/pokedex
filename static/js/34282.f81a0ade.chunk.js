@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[34282],{34282:function(e,p,s){e.exports=s.p+"static/media/tapu-lele.c535fbe6d9073135b063.png"}}]);

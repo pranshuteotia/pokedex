@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[11762],{11762:function(e,s,p){e.exports=p.p+"static/media/sneasler.540b8f4ec4e2a5037093.png"}}]);

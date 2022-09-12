@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[37211],{37211:function(e,p,s){e.exports=s.p+"static/media/graveler.d3fbe717fb71d1b2e166.png"}}]);

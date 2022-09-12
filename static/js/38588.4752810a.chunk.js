@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[38588],{38588:function(e,p,s){e.exports=s.p+"static/media/pansage.7456746869e712cf7b71.png"}}]);

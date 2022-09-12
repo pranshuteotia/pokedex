@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[33170],{33170:function(e,a,p){e.exports=p.p+"static/media/magearna.537af77ff7f0db3ba0b0.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[26585],{26585:function(e,d,p){e.exports=p.p+"static/media/delibird.84dcad6b0fd30c4e7525.png"}}]);

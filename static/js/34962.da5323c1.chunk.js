@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[34962],{34962:function(e,p,d){e.exports=d.p+"static/media/dodrio.15e99984660ae500b4dd.png"}}]);

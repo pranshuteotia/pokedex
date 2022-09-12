@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[87191],{87191:function(e,s,p){e.exports=p.p+"static/media/sandygast.647b2e704de003c8444d.png"}}]);

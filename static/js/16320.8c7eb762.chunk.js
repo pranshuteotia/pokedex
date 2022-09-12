@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[16320],{16320:function(e,p,s){e.exports=s.p+"static/media/staraptor.9beadd61513d32ed59c1.png"}}]);

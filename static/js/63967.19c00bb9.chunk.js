@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[63967],{63967:function(e,p,c){e.exports=c.p+"static/media/jangmo-o.3ecb26c0297585188ff0.png"}}]);

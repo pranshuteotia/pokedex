@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[67646],{67646:function(e,b,p){e.exports=p.p+"static/media/bidoof.fb581e4a6bbb4148b351.png"}}]);

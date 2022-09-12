@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[10852],{10852:function(e,a,p){e.exports=p.p+"static/media/flaaffy.d5ac5e142aa202fabec4.png"}}]);

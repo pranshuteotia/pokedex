@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[74221],{74221:function(e,c,p){e.exports=p.p+"static/media/bagon.e93f96c99fc37ff92c43.png"}}]);

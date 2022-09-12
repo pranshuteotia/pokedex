@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[32886],{32886:function(e,c,n){e.exports=n.p+"static/media/finneon.52e8c57bacd6ccc83832.png"}}]);

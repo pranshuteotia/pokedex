@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[55413],{55413:function(e,f,p){e.exports=p.p+"static/media/nidoqueen.135f96d39491dff2cf8f.png"}}]);

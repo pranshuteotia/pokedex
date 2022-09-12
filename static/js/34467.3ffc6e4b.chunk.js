@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[34467],{34467:function(e,c,p){e.exports=p.p+"static/media/boldore.fc148cc32bd9c6768673.png"}}]);

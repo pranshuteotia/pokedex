@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[69167],{69167:function(e,p,f){e.exports=f.p+"static/media/blaziken.1f39f2a2be6edff2d65c.png"}}]);

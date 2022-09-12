@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[3273],{3273:function(e,p,a){e.exports=a.p+"static/media/medicham.f9b771fd3ad4eefea4f0.png"}}]);

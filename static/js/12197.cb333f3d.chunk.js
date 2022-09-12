@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[12197],{12197:function(e,p,s){e.exports=s.p+"static/media/snover.d99cd035a045d2f59f98.png"}}]);

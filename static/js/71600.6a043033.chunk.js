@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[71600],{71600:function(e,p,s){e.exports=s.p+"static/media/scorbunny.2bdda4582a0df7b7d5bb.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[47096],{47096:function(e,p,c){e.exports=c.p+"static/media/vulpix.cce8917a69bd389af1d3.png"}}]);

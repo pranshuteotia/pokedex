@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[25014],{25014:function(e,p,s){e.exports=s.p+"static/media/hoopa.50ab6e2fcee12689f46d.png"}}]);

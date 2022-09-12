@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[49694],{49694:function(e,o,p){e.exports=p.p+"static/media/wooloo.6bc72b85d41f15aae30c.png"}}]);

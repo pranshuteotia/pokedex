@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[87727],{87727:function(e,c,p){e.exports=p.p+"static/media/suicune.c91d553bf49181d46c4b.png"}}]);

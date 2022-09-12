@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[82],{82:function(e,p,t){e.exports=t.p+"static/media/meloetta.06aff689fe29b39c68a6.png"}}]);

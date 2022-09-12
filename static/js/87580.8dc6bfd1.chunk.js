@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[87580],{87580:function(e,p,s){e.exports=s.p+"static/media/mawile.03e74c968275e5908d79.png"}}]);

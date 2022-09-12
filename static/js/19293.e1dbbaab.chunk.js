@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[19293],{19293:function(e,p,t){e.exports=t.p+"static/media/turtwig.c763e24ac32aad81e1f1.png"}}]);

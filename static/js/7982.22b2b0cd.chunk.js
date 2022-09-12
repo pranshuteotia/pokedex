@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[7982],{7982:function(e,p,s){e.exports=s.p+"static/media/zygarde.c319474f1865ffeb3751.png"}}]);

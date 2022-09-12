@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[37972],{37972:function(e,p,s){e.exports=s.p+"static/media/shuckle.446b769a8fb65c818856.png"}}]);

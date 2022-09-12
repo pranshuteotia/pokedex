@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[85668],{85668:function(e,a,p){e.exports=p.p+"static/media/chewtle.7a8a581554a80aa3ca44.png"}}]);

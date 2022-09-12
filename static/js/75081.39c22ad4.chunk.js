@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[75081],{75081:function(e,b,p){e.exports=p.p+"static/media/morgrem.fb7bda3dbbfd25b3fb2e.png"}}]);

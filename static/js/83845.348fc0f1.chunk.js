@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[83845],{83845:function(e,p,s){e.exports=s.p+"static/media/beldum.46c67fd6582a5404e38b.png"}}]);

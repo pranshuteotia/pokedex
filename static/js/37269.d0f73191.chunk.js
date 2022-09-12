@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[37269],{37269:function(e,c,p){e.exports=p.p+"static/media/salandit.c940d17532dac986cbdb.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[64505],{64505:function(e,p,s){e.exports=s.p+"static/media/typhlosion.d7cf3fcd451ea7bb1226.png"}}]);

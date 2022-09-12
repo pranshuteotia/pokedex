@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[43086],{43086:function(e,a,p){e.exports=p.p+"static/media/makuhita.68ad07ad3d98bd36e564.png"}}]);

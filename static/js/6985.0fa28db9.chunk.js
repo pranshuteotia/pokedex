@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[6985],{6985:function(e,p,s){e.exports=s.p+"static/media/enamorus.86e6e06a9777b3bdf8f8.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[94033],{94033:function(e,p,s){e.exports=s.p+"static/media/solgaleo.18efb38969181f44f365.png"}}]);

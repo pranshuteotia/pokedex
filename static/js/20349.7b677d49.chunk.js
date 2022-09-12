@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[20349],{20349:function(e,c,p){e.exports=p.p+"static/media/scrafty.5927f880e0c9c4f60848.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[25060],{25060:function(e,p,s){e.exports=s.p+"static/media/shinx.b7228cb9af1b69fe41b9.png"}}]);

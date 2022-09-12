@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[11674],{11674:function(e,p,c){e.exports=c.p+"static/media/rolycoly.f37f4596c2bb9997a5ed.png"}}]);

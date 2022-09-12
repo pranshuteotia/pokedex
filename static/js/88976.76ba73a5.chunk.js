@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[88976],{88976:function(e,c,p){e.exports=p.p+"static/media/boltund.a02c4ecc7adf8fbe738d.png"}}]);

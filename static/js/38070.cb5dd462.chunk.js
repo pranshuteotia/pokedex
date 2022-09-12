@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[38070],{38070:function(e,p,a){e.exports=a.p+"static/media/inkay.9a5437e3ab2d276b1d74.png"}}]);

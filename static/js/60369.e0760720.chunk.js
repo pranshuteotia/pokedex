@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[60369],{60369:function(e,p,s){e.exports=s.p+"static/media/flygon.475d42f88e1454e71bbd.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[85371],{85371:function(e,p,k){e.exports=k.p+"static/media/palkia.b2412beeb6182846cf32.png"}}]);

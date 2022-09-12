@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[49848],{49848:function(e,a,p){e.exports=p.p+"static/media/cyndaquil.2a2be680a65a66640066.png"}}]);

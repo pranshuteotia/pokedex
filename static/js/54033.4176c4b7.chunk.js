@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[54033],{54033:function(e,p,c){e.exports=c.p+"static/media/phione.6dcac4e6a91d30cd5526.png"}}]);

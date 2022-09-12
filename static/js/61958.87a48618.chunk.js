@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[61958],{61958:function(e,p,s){e.exports=s.p+"static/media/ferrothorn.85e51b03ff7445e4b97a.png"}}]);

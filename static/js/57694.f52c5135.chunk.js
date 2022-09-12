@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[57694],{57694:function(e,p,n){e.exports=n.p+"static/media/lunatone.075714ce64b841877ded.png"}}]);

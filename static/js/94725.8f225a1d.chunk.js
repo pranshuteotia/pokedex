@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[94725],{94725:function(e,p,k){e.exports=k.p+"static/media/trumbeak.c30198e8ae4e49754602.png"}}]);

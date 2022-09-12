@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[93032],{93032:function(e,b,p){e.exports=p.p+"static/media/sobble.b19503ebeb90974bab97.png"}}]);

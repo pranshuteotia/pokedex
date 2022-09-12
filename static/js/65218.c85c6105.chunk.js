@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[65218],{65218:function(e,c,p){e.exports=p.p+"static/media/minun.fa0c96222d3c6dbc0dd1.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[92975],{92975:function(e,p,s){e.exports=s.p+"static/media/musharna.2443ae48c2f18207f770.png"}}]);

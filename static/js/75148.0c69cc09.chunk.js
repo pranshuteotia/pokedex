@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[75148],{75148:function(e,c,p){e.exports=p.p+"static/media/cinderace.8f768c5d0678c0b9c71a.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[56941],{56941:function(e,c,p){e.exports=p.p+"static/media/electivire.254ad1abcfac9499b047.png"}}]);

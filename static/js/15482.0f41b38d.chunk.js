@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[15482],{15482:function(e,p,s){e.exports=s.p+"static/media/plusle.235dbd21ab390b7dbfc2.png"}}]);

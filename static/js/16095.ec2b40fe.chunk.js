@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[16095],{16095:function(e,p,k){e.exports=k.p+"static/media/kleavor.e7901dc92f1e5d10d656.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[60075],{60075:function(e,p,a){e.exports=a.p+"static/media/heatran.cd9b42f45db9eaec6609.png"}}]);

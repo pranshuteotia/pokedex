@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[10747],{10747:function(e,a,p){e.exports=p.p+"static/media/kartana.a04c0e2d1cbe65264f95.png"}}]);

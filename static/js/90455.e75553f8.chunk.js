@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[90455],{90455:function(e,p,c){e.exports=c.p+"static/media/wurmple.bec23ba5759bcb995631.png"}}]);

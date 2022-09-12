@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[87747],{87747:function(e,p,t){e.exports=t.p+"static/media/dottler.730c1e60f8a5b55e263f.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[11817],{11817:function(e,s,p){e.exports=p.p+"static/media/heracross.cbe8695851575bb9d058.png"}}]);

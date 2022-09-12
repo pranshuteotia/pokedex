@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[53972],{53972:function(e,p,s){e.exports=s.p+"static/media/drizzile.6f4f38339a1ed194d790.png"}}]);

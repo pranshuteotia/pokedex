@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[79819],{79819:function(e,p,s){e.exports=s.p+"static/media/persian.55ad48220f5a90f0d12c.png"}}]);

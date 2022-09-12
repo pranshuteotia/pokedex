@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[97451],{97451:function(e,c,p){e.exports=p.p+"static/media/joltik.6bf1ce7d1c279cdb8f07.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[48749],{48749:function(e,p,s){e.exports=s.p+"static/media/cosmoem.5b1a24593a94e578470b.png"}}]);

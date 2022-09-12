@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[81614],{81614:function(e,c,p){e.exports=p.p+"static/media/chimecho.7b4fc871060b3b468688.png"}}]);

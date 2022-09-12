@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[77578],{77578:function(e,c,p){e.exports=p.p+"static/media/feebas.6c3ccd568233b9aaf838.png"}}]);

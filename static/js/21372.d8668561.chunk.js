@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[21372],{21372:function(e,p,a){e.exports=a.p+"static/media/noibat.a90114ac211e7782c2d9.png"}}]);

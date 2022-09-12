@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[21579],{21579:function(e,c,p){e.exports=p.p+"static/media/golurk.bc665aec65cbc0396362.png"}}]);

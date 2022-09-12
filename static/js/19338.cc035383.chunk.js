@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[19338],{19338:function(e,p,s){e.exports=s.p+"static/media/poliwhirl.40b3923d3228c68dad15.png"}}]);

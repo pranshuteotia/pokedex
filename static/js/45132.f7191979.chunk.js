@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[45132],{45132:function(e,p,s){e.exports=s.p+"static/media/exeggutor.9dd1818fb95a644bab93.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[80954],{80954:function(e,p,s){e.exports=s.p+"static/media/gourgeist.75777704ffbd705063c4.png"}}]);

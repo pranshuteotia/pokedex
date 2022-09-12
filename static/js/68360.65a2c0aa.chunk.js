@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[68360],{68360:function(e,p,s){e.exports=s.p+"static/media/houndour.b40f605177b8d62e1d81.png"}}]);

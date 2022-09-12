@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[31350],{31350:function(e,p,s){e.exports=s.p+"static/media/celesteela.7b42cb56eaddfdf2018f.png"}}]);

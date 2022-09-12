@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[41399],{41399:function(e,p,t){e.exports=t.p+"static/media/trevenant.dbe4468485da0126f4ff.png"}}]);

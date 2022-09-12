@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[50179],{50179:function(e,s,p){e.exports=p.p+"static/media/sandslash.8d1641496bb5f0246d82.png"}}]);

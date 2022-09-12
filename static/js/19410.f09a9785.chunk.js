@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[19410],{19410:function(e,p,s){e.exports=s.p+"static/media/orbeetle.b52f851650a96744d649.png"}}]);

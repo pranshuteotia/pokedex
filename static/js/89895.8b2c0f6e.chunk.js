@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[89895],{89895:function(e,p,a){e.exports=a.p+"static/media/zamazenta.39d4bdb608304268d0cd.png"}}]);

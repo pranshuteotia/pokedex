@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[2686],{2686:function(e,p,s){e.exports=s.p+"static/media/tepig.79bda37fdc3eb750d188.png"}}]);

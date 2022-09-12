@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[77112],{77112:function(e,p,i){e.exports=i.p+"static/media/victini.3d7687184b714ed6f7f6.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[5114],{5114:function(e,p,s){e.exports=s.p+"static/media/escavalier.4552ff796987a19452b3.png"}}]);

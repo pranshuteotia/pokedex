@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[11268],{11268:function(e,p,c){e.exports=c.p+"static/media/thievul.8feeb61556c6d87428c7.png"}}]);

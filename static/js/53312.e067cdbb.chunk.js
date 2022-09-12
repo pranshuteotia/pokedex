@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[53312],{53312:function(e,p,s){e.exports=s.p+"static/media/clobbopus.0552e1485a5c69920e5b.png"}}]);

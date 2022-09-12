@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[2477],{2477:function(e,p,c){e.exports=c.p+"static/media/gulpin.fd87073ef4d28c7875ec.png"}}]);

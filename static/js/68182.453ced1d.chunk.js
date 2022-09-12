@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[68182],{68182:function(e,p,s){e.exports=s.p+"static/media/swablu.bafe0c48f1f766df8b21.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[18586],{18586:function(e,p,a){e.exports=a.p+"static/media/lotad.6c16059b0adc2f84d7a1.png"}}]);

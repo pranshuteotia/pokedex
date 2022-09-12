@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[49788],{49788:function(e,a,p){e.exports=p.p+"static/media/binacle.66aac136e5331ae8d29b.png"}}]);

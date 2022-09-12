@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[81748],{81748:function(e,p,k){e.exports=k.p+"static/media/klang.2e4af177c2983e2b8f4f.png"}}]);

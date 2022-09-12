@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[87212],{87212:function(e,p,n){e.exports=n.p+"static/media/mantine.f495b58127a63e5e776b.png"}}]);

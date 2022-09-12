@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[92719],{92719:function(e,p,c){e.exports=c.p+"static/media/slowpoke.6627345a15e1cca7c0e4.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[44968],{44968:function(e,p,a){e.exports=a.p+"static/media/tynamo.6f5ed3a45d1fa42bc8ef.png"}}]);

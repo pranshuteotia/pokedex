@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[93620],{93620:function(e,p,s){e.exports=s.p+"static/media/gliscor.69c02bef17e0b2d5099a.png"}}]);

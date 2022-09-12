@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[94738],{94738:function(e,c,p){e.exports=p.p+"static/media/dustox.cbed8c9ce3d9018db9c8.png"}}]);

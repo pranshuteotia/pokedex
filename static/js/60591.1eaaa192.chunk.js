@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[60591],{60591:function(e,c,p){e.exports=p.p+"static/media/gogoat.b77fed8e6dd1c2d2ccaf.png"}}]);

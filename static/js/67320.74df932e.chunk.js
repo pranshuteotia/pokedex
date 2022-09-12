@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[67320],{67320:function(e,p,s){e.exports=s.p+"static/media/glaceon.6a69d493210120738ff2.png"}}]);

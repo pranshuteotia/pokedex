@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[42601],{42601:function(e,p,n){e.exports=n.p+"static/media/magneton.d5c36b0a52bd4e928547.png"}}]);

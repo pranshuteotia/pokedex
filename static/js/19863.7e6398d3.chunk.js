@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[19863],{19863:function(e,p,a){e.exports=a.p+"static/media/pyroar.c56fad33a55acd440d9c.png"}}]);

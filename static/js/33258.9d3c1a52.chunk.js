@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[33258],{33258:function(e,p,s){e.exports=s.p+"static/media/sirfetchd.0bf2a190f20419af7eb6.png"}}]);

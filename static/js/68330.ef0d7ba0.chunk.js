@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[68330],{68330:function(e,k,p){e.exports=p.p+"static/media/klink.f022081135377fa7ed25.png"}}]);

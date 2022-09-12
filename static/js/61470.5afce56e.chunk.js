@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[61470],{61470:function(e,a,p){e.exports=p.p+"static/media/melmetal.9c4df846a4be982aca4a.png"}}]);

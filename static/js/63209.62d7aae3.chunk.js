@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[63209],{63209:function(e,p,b){e.exports=b.p+"static/media/krabby.ac70ebd90ebeb5f2ce7e.png"}}]);

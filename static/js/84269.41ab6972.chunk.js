@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[84269],{84269:function(e,c,s){e.exports=s.p+"static/media/togekiss.370eec93c1d3ccac9cab.png"}}]);

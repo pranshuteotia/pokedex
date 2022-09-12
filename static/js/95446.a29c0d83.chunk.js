@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[95446],{95446:function(e,p,c){e.exports=c.p+"static/media/mudkip.23cec5d4b276fa38ce84.png"}}]);

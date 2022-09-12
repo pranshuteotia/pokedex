@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[79433],{79433:function(e,a,c){e.exports=c.p+"static/media/cleffa.eac7aa3c97fa38409c1b.png"}}]);

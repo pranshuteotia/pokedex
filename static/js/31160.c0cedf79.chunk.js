@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[31160],{31160:function(e,s,p){e.exports=p.p+"static/media/shroomish.2eeaf5873685fdfdf3e2.png"}}]);

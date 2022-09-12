@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[27835],{27835:function(e,p,s){e.exports=s.p+"static/media/chansey.4b535bd3ae4580274a38.png"}}]);

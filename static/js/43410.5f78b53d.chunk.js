@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[43410],{43410:function(e,c,d){e.exports=d.p+"static/media/carracosta.cd897a32c7dd8dd4d8f4.png"}}]);

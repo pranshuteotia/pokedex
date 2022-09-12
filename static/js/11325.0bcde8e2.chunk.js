@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[11325],{11325:function(e,p,s){e.exports=s.p+"static/media/cherrim.8f6fb945d3e50a1e6848.png"}}]);

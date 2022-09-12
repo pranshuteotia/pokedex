@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[49925],{49925:function(e,p,a){e.exports=a.p+"static/media/heatmor.03a0481c9fae48682246.png"}}]);

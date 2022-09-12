@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[25283],{25283:function(e,p,s){e.exports=s.p+"static/media/aurorus.02970365f6f11eb9dbfd.png"}}]);

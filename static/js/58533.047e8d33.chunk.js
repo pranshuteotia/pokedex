@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[58533],{58533:function(e,s,a){e.exports=a.p+"static/media/coalossal.5d35ba2c51ca012b4399.png"}}]);

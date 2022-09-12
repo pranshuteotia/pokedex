@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[20400],{20400:function(e,p,c){e.exports=c.p+"static/media/chikorita.a1fcdf8590f6305419d8.png"}}]);

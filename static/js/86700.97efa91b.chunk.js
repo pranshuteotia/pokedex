@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[86700],{86700:function(e,s,p){e.exports=p.p+"static/media/cresselia.11bb3239ad6b6be83d0a.png"}}]);

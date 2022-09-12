@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[43651],{43651:function(e,p,s){e.exports=s.p+"static/media/popplio.f59b6d583931c1b5953b.png"}}]);

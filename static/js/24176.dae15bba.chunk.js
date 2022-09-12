@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[24176],{24176:function(e,p,t){e.exports=t.p+"static/media/banette.963c88e017125c49782d.png"}}]);

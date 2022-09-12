@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[94612],{94612:function(e,p,s){e.exports=s.p+"static/media/crabrawler.5003600b0b9f90640215.png"}}]);

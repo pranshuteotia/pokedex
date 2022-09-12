@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[5407],{5407:function(e,c,p){e.exports=p.p+"static/media/chandelure.b79808388c566afa239c.png"}}]);

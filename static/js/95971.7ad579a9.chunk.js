@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[95971],{95971:function(e,c,f){e.exports=f.p+"static/media/teddiursa.f5f57c1f2ccf1b7fbc9f.png"}}]);

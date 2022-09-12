@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[69116],{69116:function(e,p,c){e.exports=c.p+"static/media/groudon.fd145ce7e3271ca6e8da.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[86752],{86752:function(e,p,s){e.exports=s.p+"static/media/calyrex.325481963e4a389497d0.png"}}]);

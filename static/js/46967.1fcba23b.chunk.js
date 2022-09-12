@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[46967],{46967:function(e,p,s){e.exports=s.p+"static/media/kabutops.eb2db1ff0371dd0d4224.png"}}]);

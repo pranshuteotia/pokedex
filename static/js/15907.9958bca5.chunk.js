@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[15907],{15907:function(e,p,k){e.exports=k.p+"static/media/kecleon.5a863ed9f98fd2325207.png"}}]);

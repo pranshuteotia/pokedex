@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[85739],{85739:function(e,p,s){e.exports=s.p+"static/media/omastar.653f6d6b4e40b3f75953.png"}}]);

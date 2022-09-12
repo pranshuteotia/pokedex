@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[34866],{34866:function(e,p,s){e.exports=s.p+"static/media/mothim.a838c2020315f8ae5395.png"}}]);

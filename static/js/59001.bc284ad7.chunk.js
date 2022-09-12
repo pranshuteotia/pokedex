@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[59001],{59001:function(e,p,n){e.exports=n.p+"static/media/carnivine.822997303e9e5f21294a.png"}}]);

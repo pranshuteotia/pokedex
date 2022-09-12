@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[45853],{45853:function(e,p,s){e.exports=s.p+"static/media/shellder.09a15b0f736098233ea7.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[81895],{81895:function(e,p,s){e.exports=s.p+"static/media/poipole.29427f7bae3b42c6a3bd.png"}}]);

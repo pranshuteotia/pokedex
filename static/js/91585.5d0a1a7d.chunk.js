@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[91585],{91585:function(e,p,d){e.exports=d.p+"static/media/natu.d56960bfcdfd960df154.png"}}]);

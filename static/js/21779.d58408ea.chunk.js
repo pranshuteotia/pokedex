@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[21779],{21779:function(e,p,k){e.exports=k.p+"static/media/froakie.97610d8b8c6bfa62ef48.png"}}]);

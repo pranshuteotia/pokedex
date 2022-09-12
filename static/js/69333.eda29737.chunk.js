@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[69333],{69333:function(e,p,s){e.exports=s.p+"static/media/swadloon.e1410dd133c5db290181.png"}}]);

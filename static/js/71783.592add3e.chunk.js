@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[71783],{71783:function(e,p,s){e.exports=s.p+"static/media/cranidos.df325ea9961590f48d39.png"}}]);

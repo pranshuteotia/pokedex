@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[62451],{62451:function(e,p,s){e.exports=s.p+"static/media/frosmoth.3cb2f37e8da2fca1919d.png"}}]);

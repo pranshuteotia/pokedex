@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[67030],{67030:function(e,p,s){e.exports=s.p+"static/media/seviper.5aa1eed1c3583347e147.png"}}]);

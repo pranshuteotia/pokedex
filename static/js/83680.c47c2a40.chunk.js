@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[83680],{83680:function(e,a,p){e.exports=p.p+"static/media/darumaka.3ad2426fef5d55468b1d.png"}}]);

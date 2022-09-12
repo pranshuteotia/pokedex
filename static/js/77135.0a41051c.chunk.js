@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[77135],{77135:function(e,p,d){e.exports=d.p+"static/media/houndoom.bd88ae506dc6577610da.png"}}]);

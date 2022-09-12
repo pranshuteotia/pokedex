@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[70830],{70830:function(e,p,c){e.exports=c.p+"static/media/zekrom.64075fc899c56f739904.png"}}]);

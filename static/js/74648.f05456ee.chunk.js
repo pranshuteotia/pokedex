@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[74648],{74648:function(e,c,p){e.exports=p.p+"static/media/landorus.9af3e1ecdff3c5d97ca2.png"}}]);

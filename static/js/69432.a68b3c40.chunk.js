@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[69432],{69432:function(e,p,s){e.exports=s.p+"static/media/marshadow.87c7bb2dca61211ff50f.png"}}]);

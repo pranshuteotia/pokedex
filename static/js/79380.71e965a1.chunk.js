@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[79380],{79380:function(e,p,s){e.exports=s.p+"static/media/timburr.12bd031054c15963fab1.png"}}]);

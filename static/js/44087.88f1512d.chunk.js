@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[44087],{44087:function(e,p,c){e.exports=c.p+"static/media/treecko.db5d424be11cfeb40efe.png"}}]);

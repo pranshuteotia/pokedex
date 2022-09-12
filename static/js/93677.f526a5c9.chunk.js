@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[93677],{93677:function(e,p,s){e.exports=s.p+"static/media/bonsly.3ddc2179a5a9bd789720.png"}}]);

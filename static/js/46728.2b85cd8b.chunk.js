@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[46728],{46728:function(e,p,c){e.exports=c.p+"static/media/buzzwole.076316d0c2ec8ea09da5.png"}}]);

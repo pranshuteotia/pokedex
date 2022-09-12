@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[67345],{67345:function(e,p,s){e.exports=s.p+"static/media/parasect.92a89f0119ff389d8f83.png"}}]);

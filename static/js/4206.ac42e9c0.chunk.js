@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[4206],{4206:function(e,a,p){e.exports=p.p+"static/media/feraligatr.2eb69a28a8bea5a549f2.png"}}]);

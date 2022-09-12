@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[90694],{90694:function(e,p,d){e.exports=d.p+"static/media/geodude.374f30131a78b3d6399d.png"}}]);

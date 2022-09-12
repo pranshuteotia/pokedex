@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[70202],{70202:function(e,p,c){e.exports=c.p+"static/media/furfrou.605fa676bc86dc075bb7.png"}}]);

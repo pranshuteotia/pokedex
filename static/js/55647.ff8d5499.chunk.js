@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[55647],{55647:function(e,p,s){e.exports=s.p+"static/media/scraggy.21e16c1b06bb962f344f.png"}}]);

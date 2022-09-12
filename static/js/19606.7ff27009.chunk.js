@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[19606],{19606:function(e,a,p){e.exports=p.p+"static/media/wartortle.4273041aac3afe061375.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[49583],{49583:function(e,p,a){e.exports=a.p+"static/media/avalugg.46b83e99c89db1a41fcb.png"}}]);

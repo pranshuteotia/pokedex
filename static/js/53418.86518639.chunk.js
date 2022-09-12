@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[53418],{53418:function(e,p,s){e.exports=s.p+"static/media/swampert.badb8f4c0d364198c1b0.png"}}]);

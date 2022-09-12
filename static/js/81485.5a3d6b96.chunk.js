@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[81485],{81485:function(e,p,s){e.exports=s.p+"static/media/smeargle.cee4ec2885f87ded5ae0.png"}}]);

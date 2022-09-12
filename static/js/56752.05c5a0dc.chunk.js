@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[56752],{56752:function(e,p,s){e.exports=s.p+"static/media/shaymin.5968f96e7132705f91a5.png"}}]);

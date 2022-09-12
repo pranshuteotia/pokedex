@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[65328],{65328:function(e,p,t){e.exports=t.p+"static/media/butterfree.6606e2558945a78afca2.png"}}]);

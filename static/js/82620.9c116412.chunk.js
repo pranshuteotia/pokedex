@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[82620],{82620:function(e,c,p){e.exports=p.p+"static/media/cacturne.ddea91297327e5badec7.png"}}]);

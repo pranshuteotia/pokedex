@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[86638],{86638:function(e,a,p){e.exports=p.p+"static/media/glastrier.3a1299f877f20aea9b25.png"}}]);

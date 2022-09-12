@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[20548],{20548:function(e,a,s){e.exports=s.p+"static/media/simisear.bdea010a6dac38ebd76a.png"}}]);

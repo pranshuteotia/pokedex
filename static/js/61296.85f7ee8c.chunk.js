@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[61296],{61296:function(e,a,p){e.exports=p.p+"static/media/chinchou.4285b4159a62072a4aa0.png"}}]);

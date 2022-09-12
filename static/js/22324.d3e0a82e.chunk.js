@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[22324],{22324:function(e,c,p){e.exports=p.p+"static/media/rufflet.6c021cc58928a12946a1.png"}}]);

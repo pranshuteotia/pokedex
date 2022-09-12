@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[86362],{86362:function(e,p,s){e.exports=s.p+"static/media/wynaut.c4bfb9f4b890143eda2b.png"}}]);

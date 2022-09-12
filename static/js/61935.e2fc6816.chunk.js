@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[61935],{67956:function(e,p,s){e.exports=s.p+"static/media/golem.0d409fefb409d69c7e91.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[47734],{47734:function(e,p,k){e.exports=k.p+"static/media/murkrow.13c95e368270668967e0.png"}}]);

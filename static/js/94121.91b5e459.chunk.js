@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[94121],{94121:function(e,p,a){e.exports=a.p+"static/media/herdier.d60aadd0c603593ab135.png"}}]);

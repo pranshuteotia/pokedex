@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[31274],{31274:function(e,p,a){e.exports=a.p+"static/media/pawniard.3ac1847286dea855888f.png"}}]);

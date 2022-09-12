@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[2062],{2062:function(e,p,s){e.exports=s.p+"static/media/charmeleon.11240d0e9b7005e124ff.png"}}]);

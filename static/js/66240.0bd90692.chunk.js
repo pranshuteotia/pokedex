@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[66240],{66240:function(e,a,p){e.exports=p.p+"static/media/zigzagoon.ba79359ca56f1eaff4dd.png"}}]);

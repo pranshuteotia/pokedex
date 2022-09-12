@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[43275],{43275:function(e,p,a){e.exports=a.p+"static/media/machamp.99c0a611da43e58003e3.png"}}]);

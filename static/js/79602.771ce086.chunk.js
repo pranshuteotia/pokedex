@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[79602],{79602:function(e,c,p){e.exports=p.p+"static/media/diancie.f3eeb1c3bf6df20f7c30.png"}}]);

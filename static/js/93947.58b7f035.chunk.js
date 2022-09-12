@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[93947],{93947:function(e,s,p){e.exports=p.p+"static/media/blastoise.be8dba0af79ce37ddd6f.png"}}]);

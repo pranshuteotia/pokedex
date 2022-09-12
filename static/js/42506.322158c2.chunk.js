@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[42506],{42506:function(e,k,p){e.exports=p.p+"static/media/lickilicky.656a36b24e8e56fd2b85.png"}}]);

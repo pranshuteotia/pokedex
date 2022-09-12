@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[10692],{10692:function(e,c,p){e.exports=p.p+"static/media/volcanion.44de0cdce6077e346e28.png"}}]);

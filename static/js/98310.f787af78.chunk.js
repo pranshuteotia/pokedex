@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[98310],{98310:function(e,c,p){e.exports=p.p+"static/media/slaking.cfb30d06a4b63c8dcd69.png"}}]);

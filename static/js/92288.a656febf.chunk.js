@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[92288],{92288:function(e,p,s){e.exports=s.p+"static/media/sunflora.6e8ce96752afb3fa2d92.png"}}]);

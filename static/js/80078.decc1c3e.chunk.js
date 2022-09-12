@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[80078],{80078:function(e,p,s){e.exports=s.p+"static/media/azurill.9b4b139f641d275286be.png"}}]);

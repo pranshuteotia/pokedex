@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[34378],{34378:function(e,p,c){e.exports=c.p+"static/media/aerodactyl.d051d37df697c0b0007f.png"}}]);

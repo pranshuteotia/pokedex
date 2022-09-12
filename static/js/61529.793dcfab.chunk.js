@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[61529],{61529:function(e,p,s){e.exports=s.p+"static/media/dewpider.f5f3c35af68602d46ae2.png"}}]);

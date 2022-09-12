@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[99243],{99243:function(e,p,n){e.exports=n.p+"static/media/inteleon.2135a3082b8eb042e8d5.png"}}]);

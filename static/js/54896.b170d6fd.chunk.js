@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[54896],{54896:function(e,p,a){e.exports=a.p+"static/media/hakamo-o.af3566bd559cd267cf94.png"}}]);

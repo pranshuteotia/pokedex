@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[92684],{92684:function(e,s,p){e.exports=p.p+"static/media/eldegoss.0f94e76dd2c70175a515.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[90025],{90025:function(e,a,k){e.exports=k.p+"static/media/stakataka.0448d650858b7503b377.png"}}]);

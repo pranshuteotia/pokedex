@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[26869],{26869:function(e,p,f){e.exports=f.p+"static/media/rhyhorn.2ff98886fc542d9f276d.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[96014],{96014:function(e,p,c){e.exports=c.p+"static/media/oranguru.99938cc568b25e0536ee.png"}}]);

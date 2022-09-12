@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[17720],{17720:function(e,p,c){e.exports=c.p+"static/media/pangoro.98c7db4c4fd144b1ebbc.png"}}]);

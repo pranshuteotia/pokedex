@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[99808],{99808:function(e,p,s){e.exports=s.p+"static/media/solrock.d37ca294733dd0b0ee87.png"}}]);

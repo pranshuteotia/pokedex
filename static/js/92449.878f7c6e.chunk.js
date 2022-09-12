@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[92449],{92449:function(e,p,n){e.exports=n.p+"static/media/bronzong.02ced2b24194447f4661.png"}}]);

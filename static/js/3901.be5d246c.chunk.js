@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[3901],{3901:function(e,p,d){e.exports=d.p+"static/media/dragapult.b60dc493dff5836ad2d3.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[8803],{8803:function(e,p,s){e.exports=s.p+"static/media/panpour.5f3fb1156b18895604ca.png"}}]);

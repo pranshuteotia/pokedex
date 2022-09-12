@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[57568],{57568:function(e,t,p){e.exports=p.p+"static/media/toxtricity.4e826a261f1f711ddfd3.png"}}]);

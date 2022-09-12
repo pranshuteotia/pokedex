@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[15997],{15997:function(e,a,p){e.exports=p.p+"static/media/sandaconda.3a13a6434e0f2eaecae1.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[98927],{98927:function(e,p,a){e.exports=a.p+"static/media/luxray.ecf3c645930f68aa264e.png"}}]);

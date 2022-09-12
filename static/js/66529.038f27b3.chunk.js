@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[66529],{66529:function(e,p,t){e.exports=t.p+"static/media/golett.1b76d445a68a386639d3.png"}}]);

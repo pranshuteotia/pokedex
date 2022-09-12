@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[43116],{43116:function(e,p,c){e.exports=c.p+"static/media/ludicolo.60b741ffce12b931d0e0.png"}}]);

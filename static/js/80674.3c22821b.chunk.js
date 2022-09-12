@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[80674],{80674:function(e,p,s){e.exports=s.p+"static/media/dusclops.94f2321b2e4f830990d5.png"}}]);

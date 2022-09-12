@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[89938],{89938:function(e,p,a){e.exports=a.p+"static/media/purrloin.53ffe44caa8b4b5c419a.png"}}]);

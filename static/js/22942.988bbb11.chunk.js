@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[22942],{22942:function(e,a,c){e.exports=c.p+"static/media/patrat.485cc5a3af0eacb563c1.png"}}]);

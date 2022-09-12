@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[97245],{97245:function(e,p,k){e.exports=k.p+"static/media/mantyke.0448e043bdd1a32c2341.png"}}]);

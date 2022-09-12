@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[78309],{78309:function(e,p,s){e.exports=s.p+"static/media/illumise.93a106122de2931768ff.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[82918],{82918:function(e,p,a){e.exports=a.p+"static/media/wormadam.f6e5902fa6bdd83e786c.png"}}]);

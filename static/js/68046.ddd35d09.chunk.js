@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[68046],{68046:function(e,p,c){e.exports=c.p+"static/media/wingull.423a29464d1c300200ce.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[90054],{90054:function(e,p,c){e.exports=c.p+"static/media/magnezone.bd11a5f8238d6cc06d9e.png"}}]);

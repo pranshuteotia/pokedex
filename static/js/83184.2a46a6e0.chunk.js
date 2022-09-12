@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[83184],{83184:function(e,p,s){e.exports=s.p+"static/media/deino.3b7620f523eb90d7d089.png"}}]);

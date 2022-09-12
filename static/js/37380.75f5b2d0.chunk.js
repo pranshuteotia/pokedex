@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[37380],{37380:function(e,p,s){e.exports=s.p+"static/media/zweilous.dbf439a6eb388a4602de.png"}}]);

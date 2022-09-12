@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[24679],{24679:function(e,p,t){e.exports=t.p+"static/media/tyrantrum.76414d51d4fc172b62eb.png"}}]);

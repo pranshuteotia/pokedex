@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[48805],{48805:function(e,a,p){e.exports=p.p+"static/media/charmander.4fd5701aa09647505bc4.png"}}]);

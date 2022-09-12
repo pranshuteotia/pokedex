@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[13648],{13648:function(e,p,s){e.exports=s.p+"static/media/drapion.1bd9f348829016200552.png"}}]);

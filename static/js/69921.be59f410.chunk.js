@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[69921],{69921:function(e,p,n){e.exports=n.p+"static/media/linoone.47a46c76e77ef46fa6bf.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[46514],{46514:function(e,a,p){e.exports=p.p+"static/media/terrakion.856aaea88adeea76fd83.png"}}]);

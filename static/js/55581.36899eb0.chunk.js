@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[55581],{55581:function(e,p,s){e.exports=s.p+"static/media/diggersby.c37718f7d6760dfe8783.png"}}]);

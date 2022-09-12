@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[51727],{51727:function(e,p,c){e.exports=c.p+"static/media/beautifly.6cb155a499b4d6796c09.png"}}]);

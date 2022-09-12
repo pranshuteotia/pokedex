@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[25286],{25286:function(e,p,s){e.exports=s.p+"static/media/bounsweet.b89256b0bf7e848e4267.png"}}]);

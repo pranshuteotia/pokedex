@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[56694],{56694:function(e,a,p){e.exports=p.p+"static/media/yveltal.9adb438ba2cad5412bf6.png"}}]);

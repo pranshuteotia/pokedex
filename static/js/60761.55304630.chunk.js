@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[60761],{60761:function(e,p,n){e.exports=n.p+"static/media/incineroar.351959e04077e8ba6058.png"}}]);

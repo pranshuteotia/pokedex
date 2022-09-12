@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[48263],{48263:function(e,s,p){e.exports=p.p+"static/media/gossifleur.eaaefe62cd662c445338.png"}}]);

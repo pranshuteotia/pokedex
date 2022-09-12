@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[20940],{20940:function(e,p,a){e.exports=a.p+"static/media/toxicroak.21b681f43459aca109e2.png"}}]);

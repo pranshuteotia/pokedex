@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[31293],{31293:function(e,c,p){e.exports=p.p+"static/media/monferno.778fd90e13fc56cc50aa.png"}}]);

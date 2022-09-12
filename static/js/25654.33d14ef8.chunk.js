@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[25654],{25654:function(e,p,s){e.exports=s.p+"static/media/bellsprout.3390d930596ba79a6372.png"}}]);

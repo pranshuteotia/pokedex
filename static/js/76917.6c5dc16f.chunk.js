@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[76917],{76917:function(e,a,p){e.exports=p.p+"static/media/rayquaza.f57590915399047aec60.png"}}]);

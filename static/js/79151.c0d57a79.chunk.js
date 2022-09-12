@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[79151],{79151:function(e,a,p){e.exports=p.p+"static/media/machoke.038ea66ab9b89814a723.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[97555],{97555:function(e,p,c){e.exports=c.p+"static/media/pelipper.07cc32e0aa7ca7fc4f98.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[4104],{4104:function(e,p,i){e.exports=i.p+"static/media/impidimp.53c040124166235d23ae.png"}}]);

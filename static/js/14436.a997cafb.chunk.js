@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[14436],{14436:function(e,a,p){e.exports=p.p+"static/media/ursaluna.450714c3ac8d3393aee6.png"}}]);

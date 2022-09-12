@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[44872],{44872:function(e,p,s){e.exports=s.p+"static/media/gyarados.95ed84493f624f66c18b.png"}}]);

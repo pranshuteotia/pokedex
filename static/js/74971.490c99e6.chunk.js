@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[74971],{74971:function(e,p,c){e.exports=c.p+"static/media/cradily.942c90622b210ea740d9.png"}}]);

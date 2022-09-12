@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[96864],{96864:function(e,a,p){e.exports=p.p+"static/media/sewaddle.76283f150da28caa2bba.png"}}]);

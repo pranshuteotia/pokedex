@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[67800],{67800:function(e,p,s){e.exports=s.p+"static/media/absol.2e2fc0b6484b8e6aa369.png"}}]);

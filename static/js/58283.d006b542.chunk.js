@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[58283],{58283:function(e,a,p){e.exports=p.p+"static/media/goodra.37ca451694ab9d8b583a.png"}}]);

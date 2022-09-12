@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[83398],{83398:function(e,p,a){e.exports=a.p+"static/media/dragonair.c9b29b7410710896ac20.png"}}]);

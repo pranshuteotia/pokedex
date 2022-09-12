@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[16733],{16733:function(e,p,s){e.exports=s.p+"static/media/staryu.077ecd2c6646e3d39fbf.png"}}]);

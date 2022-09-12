@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[92304],{92304:function(e,p,s){e.exports=s.p+"static/media/overqwil.6e344facd206422747b4.png"}}]);

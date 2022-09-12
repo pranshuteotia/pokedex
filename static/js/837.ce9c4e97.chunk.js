@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[837],{837:function(e,a,p){e.exports=p.p+"static/media/gabite.134adab48898f9a3cb1e.png"}}]);

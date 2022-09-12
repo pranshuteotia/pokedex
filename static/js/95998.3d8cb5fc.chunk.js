@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[95998],{95998:function(e,k,p){e.exports=p.p+"static/media/skuntank.17476219ce2900a2a222.png"}}]);

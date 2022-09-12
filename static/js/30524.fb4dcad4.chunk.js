@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[30524],{30524:function(e,p,s){e.exports=s.p+"static/media/stunky.efc0a3e1394df432216b.png"}}]);

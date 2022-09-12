@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[48507],{48507:function(e,p,s){e.exports=s.p+"static/media/hitmonlee.8dbd469b117269e972b9.png"}}]);

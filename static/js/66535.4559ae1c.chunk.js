@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[66535],{66535:function(e,p,c){e.exports=c.p+"static/media/munna.8d052c477825fee3679c.png"}}]);

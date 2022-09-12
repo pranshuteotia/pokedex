@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[70273],{70273:function(e,c,p){e.exports=p.p+"static/media/throh.641129336c7cd09bfc54.png"}}]);

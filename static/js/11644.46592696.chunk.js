@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[11644],{11644:function(e,p,s){e.exports=s.p+"static/media/spewpa.0afdc381ea4e085b0805.png"}}]);

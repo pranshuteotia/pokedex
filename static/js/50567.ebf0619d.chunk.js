@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[50567],{50567:function(e,c,p){e.exports=p.p+"static/media/igglybuff.a21dec3552ec66cb3efb.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[21992],{21992:function(e,p,s){e.exports=s.p+"static/media/obstagoon.c3790e62e4079829709c.png"}}]);

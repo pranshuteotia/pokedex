@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[21121],{21121:function(e,p,a){e.exports=a.p+"static/media/quilladin.781fbd3a11cdbe8474ac.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[55750],{55750:function(e,s,p){e.exports=p.p+"static/media/nosepass.2aa8b49ebb6ddf2545a1.png"}}]);

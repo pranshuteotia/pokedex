@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[38651],{38651:function(e,p,s){e.exports=s.p+"static/media/simipour.4e536e031a9288496bad.png"}}]);

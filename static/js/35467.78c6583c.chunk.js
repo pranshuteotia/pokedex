@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[35467],{35467:function(e,p,c){e.exports=c.p+"static/media/bronzor.3fdfcd85a1c25e8320f8.png"}}]);

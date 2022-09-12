@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[45221],{45221:function(e,p,s){e.exports=s.p+"static/media/vigoroth.73f88a9de83b2458177f.png"}}]);

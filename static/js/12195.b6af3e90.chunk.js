@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[12195],{12195:function(e,c,p){e.exports=p.p+"static/media/rockruff.bfa1292012d04ecb38c5.png"}}]);

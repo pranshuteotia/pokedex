@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[26782],{26782:function(e,a,p){e.exports=p.p+"static/media/scizor.93d38eaa3fc0e1aa4a04.png"}}]);

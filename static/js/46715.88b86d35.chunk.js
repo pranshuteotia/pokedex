@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[46715],{46715:function(e,p,s){e.exports=s.p+"static/media/skorupi.34805ef86838bcfd65c5.png"}}]);

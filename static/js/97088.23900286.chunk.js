@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[97088],{97088:function(e,a,p){e.exports=p.p+"static/media/kadabra.05e7afe644b9b11265c6.png"}}]);

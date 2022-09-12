@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[65573],{65573:function(e,p,s){e.exports=s.p+"static/media/blitzle.272f13d5ca6830415ee3.png"}}]);

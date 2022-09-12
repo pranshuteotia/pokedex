@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[68221],{68221:function(e,p,c){e.exports=c.p+"static/media/morelull.dc87079246182f04b6ca.png"}}]);

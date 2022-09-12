@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[38220],{38220:function(e,p,s){e.exports=s.p+"static/media/salazzle.2f62b455b7f7436f4bc8.png"}}]);

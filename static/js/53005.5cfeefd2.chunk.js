@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[53005],{53005:function(e,p,a){e.exports=a.p+"static/media/carbink.de4db9e0df87aae4dc43.png"}}]);

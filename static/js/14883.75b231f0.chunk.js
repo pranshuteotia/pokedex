@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[14883],{14883:function(e,p,a){e.exports=a.p+"static/media/lillipup.0aa17a34b014beb1aab4.png"}}]);

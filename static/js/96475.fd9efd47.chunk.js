@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[96475],{96475:function(e,p,s){e.exports=s.p+"static/media/scyther.f9d2bf18d623c296f671.png"}}]);

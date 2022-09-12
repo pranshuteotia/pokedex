@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[86080],{86080:function(e,s,p){e.exports=p.p+"static/media/mismagius.d3ab3e128b2ee4b35882.png"}}]);

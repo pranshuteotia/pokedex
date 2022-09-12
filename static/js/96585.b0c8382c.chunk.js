@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[96585],{96585:function(e,p,a){e.exports=a.p+"static/media/vullaby.c595e2a7b26ae1fd09ff.png"}}]);

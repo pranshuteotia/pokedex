@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[69056],{69056:function(e,p,s){e.exports=s.p+"static/media/loudred.3b0493683a21a1878157.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[70354],{70354:function(e,p,s){e.exports=s.p+"static/media/arctovish.168362babf0e443e3ca1.png"}}]);

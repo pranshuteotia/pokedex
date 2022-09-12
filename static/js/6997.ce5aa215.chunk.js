@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[6997],{6997:function(e,c,p){e.exports=p.p+"static/media/combee.20b2a7b09622cfea561c.png"}}]);

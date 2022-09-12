@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[56853],{56853:function(e,p,a){e.exports=a.p+"static/media/happiny.d1495de1fb5a04ae5811.png"}}]);

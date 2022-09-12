@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[92065],{92065:function(e,a,p){e.exports=p.p+"static/media/alakazam.045817a3b8d85d137cb7.png"}}]);

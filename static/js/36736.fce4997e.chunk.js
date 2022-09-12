@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[36736],{36736:function(e,s,c){e.exports=c.p+"static/media/sawsbuck.cb73e4531386ca041448.png"}}]);

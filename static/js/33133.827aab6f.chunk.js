@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[33133],{33133:function(e,p,c){e.exports=c.p+"static/media/pupitar.c411e9fc918da7100e00.png"}}]);

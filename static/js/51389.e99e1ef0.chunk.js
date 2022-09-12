@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[51389],{51389:function(e,p,d){e.exports=d.p+"static/media/regieleki.092d28b027375dd0358d.png"}}]);

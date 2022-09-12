@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[25232],{25232:function(e,c,p){e.exports=p.p+"static/media/spinda.c67ea73acc195c4c1975.png"}}]);

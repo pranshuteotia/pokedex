@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[60701],{60701:function(e,p,s){e.exports=s.p+"static/media/staravia.c86413b7436326c13f57.png"}}]);

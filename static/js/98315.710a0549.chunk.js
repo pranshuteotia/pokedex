@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[98315],{98315:function(e,p,s){e.exports=s.p+"static/media/sharpedo.d8d106b1c02003c73be4.png"}}]);

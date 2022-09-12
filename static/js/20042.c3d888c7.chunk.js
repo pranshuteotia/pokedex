@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[20042],{20042:function(e,p,s){e.exports=s.p+"static/media/hoppip.f366e3473f77914391ca.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[74940],{74940:function(e,p,s){e.exports=s.p+"static/media/perrserker.202f3494f7622a0b224b.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[41199],{41199:function(e,k,p){e.exports=p.p+"static/media/klefki.3038a2ef6f1b15d5fe0c.png"}}]);

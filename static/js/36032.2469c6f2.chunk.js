@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[36032],{36032:function(e,p,s){e.exports=s.p+"static/media/moltres.5efe99b7631ec8f48f57.png"}}]);

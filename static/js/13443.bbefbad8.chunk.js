@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[13443],{13443:function(e,p,a){e.exports=a.p+"static/media/dedenne.e7e2a48d1a4f2f8f20af.png"}}]);

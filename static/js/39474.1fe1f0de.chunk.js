@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[39474],{39474:function(e,p,c){e.exports=c.p+"static/media/virizion.c561982cd53319be78a8.png"}}]);

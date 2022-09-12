@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[81493],{81493:function(e,p,s){e.exports=s.p+"static/media/reshiram.63ec4f41d67723d04701.png"}}]);

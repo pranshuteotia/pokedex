@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[70636],{70636:function(e,c,p){e.exports=p.p+"static/media/doublade.3f6d9c66c8baf5efc64b.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[73591],{73591:function(e,c,p){e.exports=p.p+"static/media/conkeldurr.cf7687a69b7c710193f0.png"}}]);

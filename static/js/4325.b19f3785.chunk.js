@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[4325],{4325:function(e,p,s){e.exports=s.p+"static/media/ledyba.6e915e7ead8791138c35.png"}}]);

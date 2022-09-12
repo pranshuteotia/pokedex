@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[14352],{14352:function(e,c,p){e.exports=p.p+"static/media/barboach.c609ade403db512b8cef.png"}}]);

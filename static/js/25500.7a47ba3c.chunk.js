@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[25500],{25500:function(e,p,s){e.exports=s.p+"static/media/jumpluff.d45279e3b995ed9af063.png"}}]);

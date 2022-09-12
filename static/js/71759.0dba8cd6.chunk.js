@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[71759],{71759:function(e,c,f){e.exports=f.p+"static/media/wigglytuff.5dfcdcbb5f332f3adec6.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[14716],{14716:function(e,f,p){e.exports=p.p+"static/media/mienfoo.63f42ffe9107d8cb6b3f.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[39318],{39318:function(e,c,p){e.exports=p.p+"static/media/cubchoo.896da967cf78b6faaf34.png"}}]);

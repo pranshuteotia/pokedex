@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[5280],{5280:function(e,p,c){e.exports=c.p+"static/media/pineco.0feb7c19aeb99deeb5c4.png"}}]);

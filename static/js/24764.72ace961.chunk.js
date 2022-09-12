@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[24764],{24764:function(e,p,c){e.exports=c.p+"static/media/jigglypuff.201c7b41ebb7d398c007.png"}}]);

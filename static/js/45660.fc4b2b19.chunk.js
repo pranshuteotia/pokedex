@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[45660],{45660:function(e,s,p){e.exports=p.p+"static/media/forretress.2b5389232848ba9f5887.png"}}]);

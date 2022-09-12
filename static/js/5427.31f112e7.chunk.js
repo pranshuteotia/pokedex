@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[5427],{5427:function(e,a,p){e.exports=p.p+"static/media/leavanny.03cba403a897e94bac88.png"}}]);

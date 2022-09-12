@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[17029],{17029:function(e,c,p){e.exports=p.p+"static/media/minccino.f1c8731b5a7a610ea41d.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[35994],{35994:function(e,s,p){e.exports=p.p+"static/media/sneasel.369647cfd6fe4e2d66f1.png"}}]);

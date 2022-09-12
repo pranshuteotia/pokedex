@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[82304],{82304:function(e,p,s){e.exports=s.p+"static/media/regigigas.a131c8d0e5a29591088f.png"}}]);

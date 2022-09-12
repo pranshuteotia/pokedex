@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[1513],{1513:function(e,p,c){e.exports=c.p+"static/media/corviknight.6ae293213645df415c9f.png"}}]);

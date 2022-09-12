@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[78774],{78774:function(e,p,a){e.exports=a.p+"static/media/arcanine.18e7a13fd7e6c0492298.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[37959],{37959:function(e,p,s){e.exports=s.p+"static/media/beheeyem.3161fbb68d4041e6cb72.png"}}]);

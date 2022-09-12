@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[35310],{35310:function(e,s,p){e.exports=p.p+"static/media/seismitoad.8f51d4a73054423a2097.png"}}]);

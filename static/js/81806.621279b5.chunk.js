@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[81806],{81806:function(e,p,s){e.exports=s.p+"static/media/ursaring.b2be628087ddb9d4a6ea.png"}}]);

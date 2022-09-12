@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[12021],{12021:function(e,p,t){e.exports=t.p+"static/media/ditto.cbbf71a166d18930ec0d.png"}}]);

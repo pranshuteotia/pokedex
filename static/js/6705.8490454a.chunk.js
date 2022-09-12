@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[6705],{6705:function(e,c,p){e.exports=p.p+"static/media/golbat.81628ac466d50c3711ce.png"}}]);

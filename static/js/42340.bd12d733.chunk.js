@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[42340],{42340:function(e,a,p){e.exports=p.p+"static/media/xerneas.258cee0211ed827a5aca.png"}}]);

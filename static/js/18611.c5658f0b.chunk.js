@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[18611],{18611:function(e,p,s){e.exports=s.p+"static/media/weezing.50481055b3028fa683af.png"}}]);

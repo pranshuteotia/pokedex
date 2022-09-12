@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[34778],{34778:function(e,p,c){e.exports=c.p+"static/media/garchomp.ebde704006cbf5080030.png"}}]);

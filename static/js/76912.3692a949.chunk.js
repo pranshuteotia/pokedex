@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[76912],{76912:function(e,p,s){e.exports=s.p+"static/media/bibarel.6647a2675d696bef523b.png"}}]);

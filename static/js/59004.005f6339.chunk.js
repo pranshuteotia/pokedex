@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[59004],{59004:function(e,a,p){e.exports=p.p+"static/media/comfey.b71d63ea7f9ab11ca3a0.png"}}]);

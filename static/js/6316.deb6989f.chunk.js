@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[6316],{6316:function(e,a,p){e.exports=p.p+"static/media/skiddo.8a51353ad562ba7da799.png"}}]);

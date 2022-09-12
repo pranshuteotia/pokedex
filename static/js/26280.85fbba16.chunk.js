@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[26280],{26280:function(e,p,s){e.exports=s.p+"static/media/spiritomb.7db72a028dac2d27968b.png"}}]);

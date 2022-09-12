@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[69877],{69877:function(e,c,p){e.exports=p.p+"static/media/greninja.7c90c3f19bcb77a3112e.png"}}]);

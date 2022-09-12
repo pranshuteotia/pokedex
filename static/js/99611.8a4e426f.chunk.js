@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[99611],{99611:function(e,p,a){e.exports=a.p+"static/media/fletchinder.3e0f9afd3a60a690b49e.png"}}]);

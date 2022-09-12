@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[62956],{62956:function(e,a,c){e.exports=c.p+"static/media/raticate.1dec8fa1d78ea7c7b930.png"}}]);

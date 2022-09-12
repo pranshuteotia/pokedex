@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[27340],{27340:function(e,p,c){e.exports=c.p+"static/media/dunsparce.b608c8c0d4f4ef1a05f9.png"}}]);

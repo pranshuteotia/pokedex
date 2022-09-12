@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[40147],{40147:function(e,s,p){e.exports=p.p+"static/media/amoonguss.ec7ee9cbfe476238eb0f.png"}}]);

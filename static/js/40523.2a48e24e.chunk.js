@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[40523],{40523:function(e,p,s){e.exports=s.p+"static/media/budew.963f7bf9f31092e9d908.png"}}]);

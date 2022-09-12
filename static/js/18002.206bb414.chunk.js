@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[18002],{18002:function(e,p,c){e.exports=c.p+"static/media/azumarill.c66f90180f3c56504573.png"}}]);

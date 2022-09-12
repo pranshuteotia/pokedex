@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[46203],{46203:function(e,a,p){e.exports=p.p+"static/media/flapple.d8ea238aa7c60ab2a84e.png"}}]);

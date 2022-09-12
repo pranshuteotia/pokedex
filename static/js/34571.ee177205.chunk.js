@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[34571],{34571:function(e,p,s){e.exports=s.p+"static/media/indeedee.2afa770ce58bd791ee37.png"}}]);

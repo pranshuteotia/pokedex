@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[30952],{30952:function(e,c,p){e.exports=p.p+"static/media/cinccino.30e522df414a2c0fde78.png"}}]);

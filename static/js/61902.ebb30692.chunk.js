@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[61902],{61902:function(e,p,s){e.exports=s.p+"static/media/vanillish.c882ab3ac7758e13e718.png"}}]);

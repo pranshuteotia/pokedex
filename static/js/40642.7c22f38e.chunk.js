@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[40642],{40642:function(e,c,p){e.exports=p.p+"static/media/nidoking.7d6c61b096c4189d66dc.png"}}]);

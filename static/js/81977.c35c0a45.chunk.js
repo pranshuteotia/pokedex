@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[81977],{81977:function(e,c,p){e.exports=p.p+"static/media/chatot.2891d6b2cad10829c67b.png"}}]);

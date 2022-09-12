@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[88513],{88513:function(e,p,c){e.exports=c.p+"static/media/politoed.2272ff6692f45cd7c368.png"}}]);

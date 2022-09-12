@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[31333],{31333:function(e,p,k){e.exports=k.p+"static/media/kubfu.5d60d75de3b43342636c.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[52249],{52249:function(e,p,a){e.exports=a.p+"static/media/nidorina.8ea6662f394066267a4c.png"}}]);

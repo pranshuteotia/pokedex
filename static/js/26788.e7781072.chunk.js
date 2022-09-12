@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[26788],{26788:function(e,p,t){e.exports=t.p+"static/media/meditite.461bec6e8d7e282a062f.png"}}]);

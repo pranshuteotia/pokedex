@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[4618],{4618:function(e,p,a){e.exports=a.p+"static/media/flareon.3692a34392eb9a328585.png"}}]);

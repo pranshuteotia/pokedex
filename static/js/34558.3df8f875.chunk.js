@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[34558],{34558:function(e,p,s){e.exports=s.p+"static/media/empoleon.fdabe9d14732b3fb1fdb.png"}}]);

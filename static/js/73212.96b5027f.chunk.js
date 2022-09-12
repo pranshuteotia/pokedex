@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[73212],{73212:function(e,p,s){e.exports=s.p+"static/media/espeon.3780006f987e37f69bb7.png"}}]);

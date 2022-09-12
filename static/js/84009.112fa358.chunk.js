@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[84009],{84009:function(e,a,p){e.exports=p.p+"static/media/miltank.ac3e044dc01ddd9a86aa.png"}}]);

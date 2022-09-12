@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[34314],{34314:function(e,p,c){e.exports=c.p+"static/media/poliwag.19f6ece76264e3b62c74.png"}}]);

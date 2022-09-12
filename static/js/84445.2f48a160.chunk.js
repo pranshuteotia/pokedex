@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[84445],{84445:function(e,c,p){e.exports=p.p+"static/media/kyurem.3c8c81c93c2220186966.png"}}]);

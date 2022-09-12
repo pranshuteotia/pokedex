@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[86563],{86563:function(e,p,c){e.exports=c.p+"static/media/articuno.297a4df9128748b5c0f0.png"}}]);

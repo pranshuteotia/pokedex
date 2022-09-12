@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[62775],{62775:function(e,s,p){e.exports=p.p+"static/media/surskit.f7b0643f64a1668795c8.png"}}]);

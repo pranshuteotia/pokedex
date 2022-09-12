@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[94195],{94195:function(e,c,p){e.exports=p.p+"static/media/snorunt.43f23400c217929ce40c.png"}}]);

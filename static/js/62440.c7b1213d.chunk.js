@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[62440],{62440:function(e,n,p){e.exports=p.p+"static/media/fennekin.edc1e28e81a011ca5662.png"}}]);

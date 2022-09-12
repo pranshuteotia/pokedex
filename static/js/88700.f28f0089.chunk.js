@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[88700],{88700:function(e,p,k){e.exports=k.p+"static/media/lickitung.7be73ea60840b421905b.png"}}]);

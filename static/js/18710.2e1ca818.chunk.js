@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[18710],{18710:function(e,p,t){e.exports=t.p+"static/media/tentacruel.2e1ed799295994e2ba86.png"}}]);

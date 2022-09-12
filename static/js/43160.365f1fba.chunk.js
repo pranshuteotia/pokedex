@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[43160],{43160:function(e,n,p){e.exports=p.p+"static/media/toucannon.a0e7e2e07c4bd99d70e4.png"}}]);

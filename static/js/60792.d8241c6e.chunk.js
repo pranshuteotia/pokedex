@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[60792],{60792:function(e,p,s){e.exports=s.p+"static/media/blipbug.0a4964e39b487f9a773f.png"}}]);

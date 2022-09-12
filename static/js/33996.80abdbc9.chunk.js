@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[33996],{33996:function(e,p,c){e.exports=c.p+"static/media/porygon.57e52c5c6706cfa9f5f4.png"}}]);

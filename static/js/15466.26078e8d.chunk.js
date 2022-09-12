@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[15466],{15466:function(e,p,t){e.exports=t.p+"static/media/litten.55e08feb1e19b11167e0.png"}}]);

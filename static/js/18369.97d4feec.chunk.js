@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[18369],{18369:function(e,p,a){e.exports=a.p+"static/media/fletchling.3ad68b2f98afaf656061.png"}}]);

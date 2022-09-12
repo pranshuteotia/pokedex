@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[49543],{49543:function(e,p,a){e.exports=a.p+"static/media/copperajah.a383bde23a416bfef4db.png"}}]);

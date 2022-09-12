@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[28357],{28357:function(e,p,s){e.exports=s.p+"static/media/whismur.ff9a42e75cda0f82c292.png"}}]);

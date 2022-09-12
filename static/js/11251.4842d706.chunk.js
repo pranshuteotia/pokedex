@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[11251],{11251:function(e,p,s){e.exports=s.p+"static/media/slowking.b6fa54d33cb72508da1d.png"}}]);

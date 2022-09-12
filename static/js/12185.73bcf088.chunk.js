@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[12185],{12185:function(e,p,s){e.exports=s.p+"static/media/tropius.ea6c42d12e971c19563b.png"}}]);

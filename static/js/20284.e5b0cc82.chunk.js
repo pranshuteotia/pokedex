@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[20284],{20284:function(e,p,s){e.exports=s.p+"static/media/jolteon.f340a4b08392dbbf2f6c.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[26548],{26548:function(e,c,p){e.exports=p.p+"static/media/wyrdeer.80cd4f1c1c089d1c02e8.png"}}]);

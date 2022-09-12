@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[22266],{22266:function(e,a,c){e.exports=c.p+"static/media/emolga.ca51e7551aafc34a779c.png"}}]);

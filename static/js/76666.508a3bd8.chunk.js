@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[76666],{76666:function(e,p,s){e.exports=s.p+"static/media/aipom.131db3df4050a808f378.png"}}]);

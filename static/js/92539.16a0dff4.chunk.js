@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[92539],{92539:function(e,a,p){e.exports=p.p+"static/media/yanma.9282bc67d195a1fba1d2.png"}}]);

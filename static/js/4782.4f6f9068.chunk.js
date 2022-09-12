@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[4782],{4782:function(e,p,s){e.exports=s.p+"static/media/karrablast.31d6cd9707d06b315b43.png"}}]);

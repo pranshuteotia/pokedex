@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[1487],{1487:function(e,p,s){e.exports=s.p+"static/media/primeape.f5935163bdb4eb75ed99.png"}}]);

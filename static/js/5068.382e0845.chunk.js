@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[5068],{5068:function(e,c,p){e.exports=p.p+"static/media/claydol.e9bd7b748cb58cf5e975.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[48684],{48684:function(e,p,s){e.exports=s.p+"static/media/centiskorch.fee0d2467a2ef1810340.png"}}]);

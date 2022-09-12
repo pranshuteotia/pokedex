@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[569],{569:function(e,p,s){e.exports=s.p+"static/media/shieldon.1aa15ede6143179b3cd0.png"}}]);

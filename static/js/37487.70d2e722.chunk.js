@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[37487],{37487:function(e,s,a){e.exports=a.p+"static/media/solosis.5860a982a372994a597a.png"}}]);

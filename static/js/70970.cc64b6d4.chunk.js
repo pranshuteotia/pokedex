@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[70970],{70970:function(e,p,s){e.exports=s.p+"static/media/weavile.b00399199086bbb1c584.png"}}]);

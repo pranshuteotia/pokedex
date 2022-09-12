@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[26965],{26965:function(e,c,p){e.exports=p.p+"static/media/crustle.cc173c646664a48cc5a8.png"}}]);

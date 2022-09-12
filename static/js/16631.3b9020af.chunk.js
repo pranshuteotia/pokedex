@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[16631],{16631:function(e,p,c){e.exports=c.p+"static/media/necrozma.358c023377921430a782.png"}}]);

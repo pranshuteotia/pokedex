@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[90858],{90858:function(e,c,p){e.exports=p.p+"static/media/castform.020f7b9c88765594c7eb.png"}}]);

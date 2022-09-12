@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[49736],{49736:function(e,c,p){e.exports=p.p+"static/media/cherubi.d8c296fb90018c53e90c.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[96652],{96652:function(e,c,p){e.exports=p.p+"static/media/regirock.8521ecb62a8cda91c325.png"}}]);

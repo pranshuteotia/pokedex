@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[93174],{93174:function(e,p,a){e.exports=a.p+"static/media/walrein.13c9094fa02ad4907cf4.png"}}]);

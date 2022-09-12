@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[91],{91:function(e,p,b){e.exports=b.p+"static/media/metapod.bd83be7fbbd503658b7f.png"}}]);

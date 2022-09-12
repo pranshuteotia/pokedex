@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[66229],{66229:function(e,a,p){e.exports=p.p+"static/media/aggron.ca1929a6fc4412af4f3a.png"}}]);

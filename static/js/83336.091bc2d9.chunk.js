@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[83336],{83336:function(e,p,s){e.exports=s.p+"static/media/ponyta.e3407137b31d269b648a.png"}}]);

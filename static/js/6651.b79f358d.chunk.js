@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[6651],{6651:function(e,a,p){e.exports=p.p+"static/media/yamask.0d0925c7a66e37501aed.png"}}]);

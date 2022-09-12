@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[68404],{68404:function(e,p,s){e.exports=s.p+"static/media/spectrier.0718943e2a30d3fce89f.png"}}]);

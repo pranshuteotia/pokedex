@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[85634],{85634:function(e,p,c){e.exports=c.p+"static/media/entei.a2b224a16c41c6148f7e.png"}}]);

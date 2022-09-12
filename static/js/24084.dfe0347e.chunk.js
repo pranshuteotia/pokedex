@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[24084],{24084:function(e,c,p){e.exports=p.p+"static/media/skarmory.89b1ac95b0f27c9c80ae.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[74883],{74883:function(e,p,s){e.exports=s.p+"static/media/glalie.7b54e263f2def4070518.png"}}]);

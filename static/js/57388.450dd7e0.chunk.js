@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[57388],{57388:function(e,p,t){e.exports=t.p+"static/media/diglett.d32b7d4995af70f58057.png"}}]);

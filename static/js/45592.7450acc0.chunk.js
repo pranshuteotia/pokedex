@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[45592],{45592:function(e,p,s){e.exports=s.p+"static/media/pignite.f1a8027a48fc2185fe87.png"}}]);

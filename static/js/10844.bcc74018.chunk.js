@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[10844],{10844:function(e,p,t){e.exports=t.p+"static/media/gothitelle.df943241ff8ea609c47b.png"}}]);

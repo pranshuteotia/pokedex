@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[48855],{48855:function(e,p,a){e.exports=a.p+"static/media/aron.9fa8800e939a1f2b7056.png"}}]);

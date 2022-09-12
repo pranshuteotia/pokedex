@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[4762],{4762:function(e,p,a){e.exports=a.p+"static/media/hatenna.656cf31f6dd646a659bc.png"}}]);

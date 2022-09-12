@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[15182],{15182:function(e,p,c){e.exports=c.p+"static/media/elgyem.2968c7de2e517f8ffdc0.png"}}]);

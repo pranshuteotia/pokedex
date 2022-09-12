@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[57814],{57814:function(e,s,p){e.exports=p.p+"static/media/whiscash.28152fe2219c67a66e3d.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[47308],{47308:function(e,p,c){e.exports=c.p+"static/media/gardevoir.65d5ae8730375e0c4fce.png"}}]);

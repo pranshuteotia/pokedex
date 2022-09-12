@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[36331],{36331:function(e,c,p){e.exports=p.p+"static/media/bunnelby.d4ff87ea0c74b72f6ccc.png"}}]);

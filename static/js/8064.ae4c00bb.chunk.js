@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[8064],{8064:function(e,p,s){e.exports=s.p+"static/media/lunala.0d0f281b755b316f6017.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[10218],{10218:function(e,p,b){e.exports=b.p+"static/media/kabuto.dab06d1b729f2b33461b.png"}}]);

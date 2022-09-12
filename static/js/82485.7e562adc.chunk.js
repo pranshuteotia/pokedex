@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[82485],{82485:function(e,p,s){e.exports=s.p+"static/media/gloom.3a2a81f3c30154690588.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[59506],{59506:function(e,p,s){e.exports=s.p+"static/media/heliolisk.e1fde4189dc55e318219.png"}}]);

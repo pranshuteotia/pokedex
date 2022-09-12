@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[47346],{47346:function(e,p,s){e.exports=s.p+"static/media/tranquill.956b85435580454e08ac.png"}}]);

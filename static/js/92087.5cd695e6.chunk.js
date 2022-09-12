@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[92087],{92087:function(e,s,a){e.exports=a.p+"static/media/simisage.6d94327a41b800a425a1.png"}}]);

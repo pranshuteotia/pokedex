@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[80045],{80045:function(e,p,a){e.exports=a.p+"static/media/hariyama.b600219bd8b60633eed2.png"}}]);

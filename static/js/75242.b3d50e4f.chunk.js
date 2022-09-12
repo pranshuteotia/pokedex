@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[75242],{75242:function(e,p,a){e.exports=a.p+"static/media/pancham.344744c9e18a6280876e.png"}}]);

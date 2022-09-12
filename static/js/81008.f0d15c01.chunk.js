@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[81008],{81008:function(e,p,s){e.exports=s.p+"static/media/basculegion.d1383b08928446d46b1b.png"}}]);

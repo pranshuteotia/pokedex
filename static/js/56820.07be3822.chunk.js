@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[56820],{56820:function(e,p,a){e.exports=a.p+"static/media/blacephalon.984b54ee7cda0f42902b.png"}}]);

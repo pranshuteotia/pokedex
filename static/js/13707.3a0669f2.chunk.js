@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[13707],{13707:function(e,p,n){e.exports=n.p+"static/media/donphan.a3b0d460939e633fd757.png"}}]);

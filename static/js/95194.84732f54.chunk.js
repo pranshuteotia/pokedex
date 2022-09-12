@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[95194],{95194:function(e,p,s){e.exports=s.p+"static/media/maractus.b7194248de7c600046f7.png"}}]);

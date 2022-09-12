@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[21655],{21655:function(e,p,a){e.exports=a.p+"static/media/girafarig.1bcf051e9a978e5c7772.png"}}]);

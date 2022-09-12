@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[33806],{33806:function(e,p,a){e.exports=a.p+"static/media/dratini.011239cf6e0a753a1c00.png"}}]);

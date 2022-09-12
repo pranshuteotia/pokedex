@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[1529],{1529:function(e,p,c){e.exports=c.p+"static/media/torkoal.f502bb4a141c289cd526.png"}}]);

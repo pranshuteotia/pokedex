@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[49862],{49862:function(e,c,p){e.exports=p.p+"static/media/breloom.facc171e7c806a68e6a5.png"}}]);

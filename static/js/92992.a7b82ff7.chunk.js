@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[92992],{92992:function(e,p,c){e.exports=c.p+"static/media/camerupt.1c4ed9cae45d62a1481b.png"}}]);

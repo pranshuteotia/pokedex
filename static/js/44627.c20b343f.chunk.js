@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[44627],{44627:function(e,p,b){e.exports=b.p+"static/media/flabebe.3c29bb915030e834aebe.png"}}]);

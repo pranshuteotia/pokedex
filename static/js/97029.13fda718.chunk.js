@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[97029],{97029:function(e,p,k){e.exports=k.p+"static/media/arrokuda.b40c458eb3e2eed311b0.png"}}]);

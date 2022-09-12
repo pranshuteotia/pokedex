@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[70127],{70127:function(e,a,p){e.exports=p.p+"static/media/malamar.f66932d72473667fda06.png"}}]);

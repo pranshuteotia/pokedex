@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[65439],{65439:function(e,c,p){e.exports=p.p+"static/media/squirtle.5406ef593ec743416dcc.png"}}]);

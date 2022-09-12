@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[64743],{64743:function(e,p,s){e.exports=s.p+"static/media/falinks.020b11636ee600c3445d.png"}}]);

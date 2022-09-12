@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[53909],{53909:function(e,p,s){e.exports=s.p+"static/media/swirlix.b0adc0fd2cb6523a274e.png"}}]);

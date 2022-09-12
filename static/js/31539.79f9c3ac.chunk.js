@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[31539],{31539:function(e,p,k){e.exports=k.p+"static/media/mimikyu.5482f41dfe6dd84313f7.png"}}]);

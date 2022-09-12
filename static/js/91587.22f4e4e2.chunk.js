@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[91587],{91587:function(e,p,s){e.exports=s.p+"static/media/hypno.0f8a8889e8025d3c4f7f.png"}}]);

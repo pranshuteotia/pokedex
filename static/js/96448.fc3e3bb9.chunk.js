@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[96448],{96448:function(e,c,p){e.exports=p.p+"static/media/xurkitree.1a6b4c5d3954eafc65fc.png"}}]);

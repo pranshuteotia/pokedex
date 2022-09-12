@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[66616],{66616:function(e,s,a){e.exports=a.p+"static/media/froslass.fab4a72f73b7e3a15140.png"}}]);

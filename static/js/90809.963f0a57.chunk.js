@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[90809],{90809:function(e,a,p){e.exports=p.p+"static/media/meltan.0b8da274e67a374f4aaf.png"}}]);

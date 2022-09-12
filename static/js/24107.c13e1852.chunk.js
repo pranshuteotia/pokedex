@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[24107],{24107:function(e,p,s){e.exports=s.p+"static/media/litleo.b2d6c1a181df00148d90.png"}}]);

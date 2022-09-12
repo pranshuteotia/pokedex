@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[23251],{23251:function(e,p,c){e.exports=c.p+"static/media/mewtwo.072f8c2f41d480c7a819.png"}}]);

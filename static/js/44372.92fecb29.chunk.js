@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[44372],{44372:function(e,a,c){e.exports=c.p+"static/media/galvantula.ceda5a231c98bc672c36.png"}}]);

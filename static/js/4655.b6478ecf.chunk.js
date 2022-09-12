@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[4655],{4655:function(e,p,s){e.exports=s.p+"static/media/emboar.f69e714e5b33643b28a7.png"}}]);

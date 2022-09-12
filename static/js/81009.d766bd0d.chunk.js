@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[81009],{81009:function(e,p,c){e.exports=c.p+"static/media/lombre.6e15e49eca7fcfe2b938.png"}}]);

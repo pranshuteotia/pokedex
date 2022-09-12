@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[74867],{74867:function(e,a,c){e.exports=c.p+"static/media/tentacool.7af29c38592c171f2daa.png"}}]);

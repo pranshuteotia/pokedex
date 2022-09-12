@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[53562],{53562:function(e,p,c){e.exports=c.p+"static/media/honedge.8da34615c6094f0050c1.png"}}]);

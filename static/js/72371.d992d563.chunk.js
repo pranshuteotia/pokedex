@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[72371],{72371:function(e,p,s){e.exports=s.p+"static/media/slugma.77a9c133c82d21aed776.png"}}]);

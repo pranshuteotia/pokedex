@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[28159],{28159:function(e,a,p){e.exports=p.p+"static/media/dartrix.32d15a38aab4358f448c.png"}}]);

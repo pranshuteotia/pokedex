@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[73853],{73853:function(e,a,p){e.exports=p.p+"static/media/fomantis.04760ba69131a9d532ad.png"}}]);

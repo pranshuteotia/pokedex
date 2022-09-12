@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[79586],{79586:function(e,s,a){e.exports=a.p+"static/media/aromatisse.86e02a946817ebcbcbae.png"}}]);

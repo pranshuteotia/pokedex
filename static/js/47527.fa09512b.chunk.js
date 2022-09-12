@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[47527],{47527:function(e,p,s){e.exports=s.p+"static/media/mr-rime.324c6ee0f151d877ba84.png"}}]);

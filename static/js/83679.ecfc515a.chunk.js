@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[83679],{83679:function(e,p,c){e.exports=c.p+"static/media/alcremie.58b6b90409f46be4053c.png"}}]);

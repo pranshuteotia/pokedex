@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[47531],{47531:function(e,p,s){e.exports=s.p+"static/media/shelmet.c6d7b79aeeff36b92e30.png"}}]);

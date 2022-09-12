@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[97179],{97179:function(e,a,p){e.exports=p.p+"static/media/braviary.a7a0924888d38e750314.png"}}]);

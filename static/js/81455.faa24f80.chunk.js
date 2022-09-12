@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[81455],{81455:function(e,c,p){e.exports=p.p+"static/media/archen.68483c530bc7a6738035.png"}}]);

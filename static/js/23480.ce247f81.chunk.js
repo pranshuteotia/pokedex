@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[23480],{23480:function(e,p,a){e.exports=a.p+"static/media/voltorb.1a7003ab55a1642535e0.png"}}]);

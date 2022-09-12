@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[3063],{3063:function(e,s,c){e.exports=c.p+"static/media/shellos.e92125258c49534fcb2c.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[8336],{8336:function(e,a,p){e.exports=p.p+"static/media/bulbasaur.961a737abc93a29558b0.png"}}]);

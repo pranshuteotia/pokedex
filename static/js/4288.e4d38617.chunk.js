@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[4288],{4288:function(e,p,s){e.exports=s.p+"static/media/ivysaur.f8cc5593af8b0f69d7bb.png"}}]);

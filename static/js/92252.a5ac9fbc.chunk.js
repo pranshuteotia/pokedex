@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[92252],{92252:function(e,p,f){e.exports=f.p+"static/media/applin.c175f4f86848ffac367f.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[11986],{11986:function(e,p,s){e.exports=s.p+"static/media/corsola.49b385e9a430dc4333d3.png"}}]);

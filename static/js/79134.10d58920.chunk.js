@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[79134],{79134:function(e,c,p){e.exports=p.p+"static/media/charizard.465d670c19c3b4b749a1.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[68397],{68397:function(e,p,a){e.exports=a.p+"static/media/grubbin.bafe4fca1add1fe746b0.png"}}]);

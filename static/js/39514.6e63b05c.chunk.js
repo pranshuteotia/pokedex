@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[39514],{39514:function(e,p,s){e.exports=s.p+"static/media/tyrogue.20cda68df6d3b565448e.png"}}]);

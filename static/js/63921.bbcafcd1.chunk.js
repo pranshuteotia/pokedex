@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[63921],{63921:function(e,p,s){e.exports=s.p+"static/media/corvisquire.6e7c9be3b441621ad853.png"}}]);

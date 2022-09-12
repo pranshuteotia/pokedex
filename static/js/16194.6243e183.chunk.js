@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[16194],{16194:function(e,p,s){e.exports=s.p+"static/media/sawk.f0af873131dd4da119f9.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[92029],{92029:function(e,p,s){e.exports=s.p+"static/media/duskull.09284ecb6180fd24f2ba.png"}}]);

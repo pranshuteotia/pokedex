@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[25907],{25907:function(e,p,a){e.exports=a.p+"static/media/machop.3e80bda516f7ca9df05d.png"}}]);

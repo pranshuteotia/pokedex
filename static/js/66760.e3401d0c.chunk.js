@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[66760],{66760:function(e,p,k){e.exports=k.p+"static/media/grookey.86901687d44ffd983f8b.png"}}]);

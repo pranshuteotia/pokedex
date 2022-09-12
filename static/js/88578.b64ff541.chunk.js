@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[88578],{88578:function(e,p,s){e.exports=s.p+"static/media/hippopotas.0983001d39dcbff1f425.png"}}]);

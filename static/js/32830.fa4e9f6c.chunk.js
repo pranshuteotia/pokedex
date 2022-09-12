@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[32830],{32830:function(e,p,k){e.exports=k.p+"static/media/kommo-o.c64424a8ab116d620260.png"}}]);

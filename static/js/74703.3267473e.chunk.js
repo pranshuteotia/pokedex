@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[74703],{74703:function(e,p,s){e.exports=s.p+"static/media/omanyte.7a081c60b4eb8d1f2761.png"}}]);

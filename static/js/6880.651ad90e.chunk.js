@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[6880],{6880:function(e,p,a){e.exports=a.p+"static/media/charjabug.429437469e1b250152ea.png"}}]);

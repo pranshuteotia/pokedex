@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[60652],{60652:function(e,s,c){e.exports=c.p+"static/media/gumshoos.240ac15dab66ecbbfc92.png"}}]);

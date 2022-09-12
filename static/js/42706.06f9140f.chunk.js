@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[42706],{42706:function(e,p,s){e.exports=s.p+"static/media/buizel.0022d7f7d296edbc3bee.png"}}]);

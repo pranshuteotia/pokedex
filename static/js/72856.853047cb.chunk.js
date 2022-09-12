@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[72856],{72856:function(e,p,a){e.exports=a.p+"static/media/whirlipede.30877f2783d2aae6a95d.png"}}]);

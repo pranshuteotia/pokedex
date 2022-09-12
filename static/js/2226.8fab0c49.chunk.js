@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[2226],{2226:function(e,p,t){e.exports=t.p+"static/media/togetic.2eebab26b2658b35f5d9.png"}}]);

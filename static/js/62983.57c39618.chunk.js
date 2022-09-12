@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[62983],{62983:function(e,p,c){e.exports=c.p+"static/media/cacnea.df14db468716599f6d9e.png"}}]);

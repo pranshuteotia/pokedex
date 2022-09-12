@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[25826],{25826:function(e,p,s){e.exports=s.p+"static/media/samurott.226870a8bbd3b1965c0b.png"}}]);

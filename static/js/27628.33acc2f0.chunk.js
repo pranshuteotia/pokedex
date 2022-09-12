@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[27628],{27628:function(e,p,a){e.exports=a.p+"static/media/drampa.cc44f951f5de0937e6a3.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[22043],{22043:function(e,p,c){e.exports=c.p+"static/media/gengar.0e5a229e615c002c58ed.png"}}]);

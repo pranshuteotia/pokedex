@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[43816],{43816:function(e,c,p){e.exports=p.p+"static/media/ferroseed.1fecb94f349677dc56c2.png"}}]);

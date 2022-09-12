@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[69529],{69529:function(e,p,s){e.exports=s.p+"static/media/bayleef.245dc9b194206620d2f1.png"}}]);

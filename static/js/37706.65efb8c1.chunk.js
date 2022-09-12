@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[37706],{37706:function(e,s,p){e.exports=p.p+"static/media/wishiwashi.045683b99ad2d8908c19.png"}}]);

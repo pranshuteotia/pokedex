@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[97010],{97010:function(e,c,p){e.exports=p.p+"static/media/slakoth.93c4af24ccab5f459c5b.png"}}]);

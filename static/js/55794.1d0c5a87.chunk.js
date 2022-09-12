@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[55794],{55794:function(e,p,c){e.exports=c.p+"static/media/tympole.42c94c2e51b6561b18cb.png"}}]);

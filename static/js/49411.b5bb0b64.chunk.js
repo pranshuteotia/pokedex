@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[49411],{49411:function(e,p,c){e.exports=c.p+"static/media/dracozolt.71228235ba00860e33ec.png"}}]);

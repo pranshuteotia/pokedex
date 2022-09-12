@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[82856],{82856:function(e,p,a){e.exports=a.p+"static/media/darmanitan.e38e272d81662d6beff6.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[67956],{25506:function(e,p,a){e.exports=a.p+"static/media/magikarp.809dbd169de4ee8dea84.png"}}]);

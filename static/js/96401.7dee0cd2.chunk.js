@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[96401],{96401:function(e,a,p){e.exports=p.p+"static/media/grimmsnarl.2aa80f9742a979ff7ac7.png"}}]);

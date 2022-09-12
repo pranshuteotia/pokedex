@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[94244],{94244:function(e,p,s){e.exports=s.p+"static/media/dragalge.b7d98924b3438f5e9387.png"}}]);

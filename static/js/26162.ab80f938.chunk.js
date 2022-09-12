@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[26162],{26162:function(e,p,k){e.exports=k.p+"static/media/marowak.6655bbebb16922847559.png"}}]);

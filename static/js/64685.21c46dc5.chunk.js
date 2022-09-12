@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[64685],{64685:function(e,p,c){e.exports=c.p+"static/media/pichu.a1090e7b000712bc637e.png"}}]);

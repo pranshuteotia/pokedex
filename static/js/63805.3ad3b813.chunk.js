@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[63805],{63805:function(e,p,s){e.exports=s.p+"static/media/sylveon.e1ebdb9cc4729e9a9507.png"}}]);

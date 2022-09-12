@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[92510],{92510:function(e,p,c){e.exports=c.p+"static/media/shuppet.1e1cb805a99ccf4ae2a8.png"}}]);

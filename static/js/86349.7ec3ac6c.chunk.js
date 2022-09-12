@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[86349],{86349:function(e,p,a){e.exports=a.p+"static/media/clefairy.632746968cea6b39ad9d.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[67530],{67530:function(e,a,c){e.exports=c.p+"static/media/beartic.ace81da218eb46abe9cf.png"}}]);

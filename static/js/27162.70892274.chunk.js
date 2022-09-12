@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[27162],{27162:function(e,c,a){e.exports=a.p+"static/media/fraxure.1ce6acc31cfa10a49929.png"}}]);

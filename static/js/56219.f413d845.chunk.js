@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[56219],{56219:function(e,p,a){e.exports=a.p+"static/media/zeraora.ca96683ce27f2b4b694d.png"}}]);

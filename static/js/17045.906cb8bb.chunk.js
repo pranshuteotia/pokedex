@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[17045],{17045:function(e,p,a){e.exports=a.p+"static/media/lycanroc.087b80a14f64f36a52d6.png"}}]);

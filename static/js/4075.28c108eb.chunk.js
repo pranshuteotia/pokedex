@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[4075],{4075:function(e,a,p){e.exports=p.p+"static/media/barraskewda.78c1a914558c5d4f9070.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[70825],{70825:function(e,d,p){e.exports=p.p+"static/media/delcatty.ed90e8d9ebd41d138ff1.png"}}]);

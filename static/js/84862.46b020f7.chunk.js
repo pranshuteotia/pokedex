@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[84862],{84862:function(e,p,s){e.exports=s.p+"static/media/skrelp.1d004a05f4d7009f8c8c.png"}}]);

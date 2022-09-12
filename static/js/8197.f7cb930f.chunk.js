@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[8197],{8197:function(e,p,b){e.exports=b.p+"static/media/nickit.410b896ab19bbaf1bf3c.png"}}]);

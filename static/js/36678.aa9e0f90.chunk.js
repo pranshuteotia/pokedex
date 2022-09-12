@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[36678],{36678:function(e,p,b){e.exports=b.p+"static/media/granbull.ebfb8b5883b451219142.png"}}]);

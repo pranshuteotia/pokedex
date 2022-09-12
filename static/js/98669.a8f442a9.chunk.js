@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[98669],{98669:function(e,a,p){e.exports=p.p+"static/media/quilava.a961c0f2aead98da1ff5.png"}}]);

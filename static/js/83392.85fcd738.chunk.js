@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[83392],{83392:function(e,p,f){e.exports=f.p+"static/media/koffing.245221e327eff9239403.png"}}]);

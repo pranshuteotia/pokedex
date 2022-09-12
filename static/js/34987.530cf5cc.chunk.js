@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[34987],{34987:function(e,a,p){e.exports=p.p+"static/media/hitmonchan.cee9f176ae41abeaa6a1.png"}}]);

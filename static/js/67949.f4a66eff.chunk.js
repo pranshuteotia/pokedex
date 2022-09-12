@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[67949],{67949:function(e,p,s){e.exports=s.p+"static/media/roggenrola.720333441468f35ad984.png"}}]);

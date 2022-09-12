@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[42953],{42953:function(e,p,c){e.exports=c.p+"static/media/drilbur.c6499102190bc8d4a27e.png"}}]);

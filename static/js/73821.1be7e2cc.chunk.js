@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[73821],{73821:function(e,p,s){e.exports=s.p+"static/media/doduo.169710f82714681a24ac.png"}}]);

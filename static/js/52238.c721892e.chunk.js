@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[52238],{52238:function(e,a,p){e.exports=p.p+"static/media/abomasnow.76c3be4d476f8b6c9a1a.png"}}]);

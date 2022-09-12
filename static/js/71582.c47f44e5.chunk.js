@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[71582],{71582:function(e,c,p){e.exports=p.p+"static/media/cofagrigus.f9bb11c6f62df7ccb5e6.png"}}]);

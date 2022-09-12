@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[41425],{41425:function(e,p,s){e.exports=s.p+"static/media/espurr.5fea915e4bed4d1e3bfc.png"}}]);

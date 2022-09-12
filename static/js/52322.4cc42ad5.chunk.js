@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[52322],{52322:function(e,c,p){e.exports=p.p+"static/media/komala.bcf5cc897249c401242f.png"}}]);

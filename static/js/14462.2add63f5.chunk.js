@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[14462],{14462:function(e,p,c){e.exports=c.p+"static/media/riolu.17cda9440f82c0f29e42.png"}}]);

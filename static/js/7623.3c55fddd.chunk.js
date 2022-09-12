@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[7623],{7623:function(e,c,p){e.exports=p.p+"static/media/wailmer.c967021c37aec833141e.png"}}]);

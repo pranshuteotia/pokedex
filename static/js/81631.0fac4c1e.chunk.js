@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[81631],{81631:function(e,p,s){e.exports=s.p+"static/media/urshifu.7353b39b0788efca12c9.png"}}]);

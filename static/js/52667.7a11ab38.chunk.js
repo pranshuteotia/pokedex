@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[52667],{52667:function(e,p,s){e.exports=s.p+"static/media/grimer.4d720c246f833046296e.png"}}]);

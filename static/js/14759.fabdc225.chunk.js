@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[14759],{14759:function(e,p,a){e.exports=a.p+"static/media/alomomola.c813d7e19836ee7718ab.png"}}]);

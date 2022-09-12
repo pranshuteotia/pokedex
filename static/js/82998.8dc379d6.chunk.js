@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[82998],{82998:function(e,p,c){e.exports=c.p+"static/media/numel.d43dc3c1e096ee986018.png"}}]);

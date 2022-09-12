@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[2387],{2387:function(e,p,s){e.exports=s.p+"static/media/ampharos.ca50d8c858056bf81313.png"}}]);

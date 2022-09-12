@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[40616],{40616:function(e,p,d){e.exports=d.p+"static/media/nidoran-f.9d719920d1e27fd38223.png"}}]);

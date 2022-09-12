@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[89323],{89323:function(e,p,s){e.exports=s.p+"static/media/weepinbell.b7591bfe3473106cdaf4.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[69306],{69306:function(e,p,s){e.exports=s.p+"static/media/rowlet.4e44e7a7e6626bf31c87.png"}}]);

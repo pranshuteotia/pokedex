@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[65076],{65076:function(e,p,a){e.exports=a.p+"static/media/lapras.883b1a5259425c8a54e7.png"}}]);

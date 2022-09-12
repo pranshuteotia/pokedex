@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[13655],{13655:function(e,p,a){e.exports=a.p+"static/media/yamper.42b14ff0d7a6f0a3f33a.png"}}]);

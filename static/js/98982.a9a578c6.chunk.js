@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[98982],{98982:function(e,p,s){e.exports=s.p+"static/media/zangoose.ec7964a7c53d5125e00b.png"}}]);

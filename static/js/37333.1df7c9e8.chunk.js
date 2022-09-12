@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[37333],{37333:function(e,p,s){e.exports=s.p+"static/media/nihilego.d1616bbb22c2d1b1701a.png"}}]);

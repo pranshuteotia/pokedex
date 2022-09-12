@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[3521],{3521:function(e,p,c){e.exports=c.p+"static/media/petilil.727b351d0edbc94d8dcc.png"}}]);

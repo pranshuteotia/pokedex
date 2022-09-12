@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[15694],{15694:function(e,s,p){e.exports=p.p+"static/media/bellossom.4d0954859c07089a6204.png"}}]);

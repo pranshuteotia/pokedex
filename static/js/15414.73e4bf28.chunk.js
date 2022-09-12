@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[15414],{15414:function(e,p,a){e.exports=a.p+"static/media/cramorant.2f07ca300b5979eb9d96.png"}}]);

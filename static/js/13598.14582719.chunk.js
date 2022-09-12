@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[13598],{13598:function(e,p,n){e.exports=n.p+"static/media/lopunny.8171bf23018716ac4ab5.png"}}]);

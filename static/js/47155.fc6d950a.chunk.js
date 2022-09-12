@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[47155],{47155:function(e,c,p){e.exports=p.p+"static/media/cobalion.43d52bf4cd75c4b1827d.png"}}]);

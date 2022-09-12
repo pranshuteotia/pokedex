@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[2990],{2990:function(e,s,p){e.exports=p.p+"static/media/misdreavus.8a1787c3d1183eaf47b7.png"}}]);

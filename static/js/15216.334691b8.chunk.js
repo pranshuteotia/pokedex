@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[15216],{15216:function(e,p,s){e.exports=s.p+"static/media/swellow.83d47f75e59f2f77ecde.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[903],{903:function(e,c,p){e.exports=p.p+"static/media/milcery.566cc167719d2f32b06a.png"}}]);

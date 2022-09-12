@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[98563],{98563:function(e,c,p){e.exports=p.p+"static/media/electabuzz.e54e93aeedc03c8bf8f3.png"}}]);

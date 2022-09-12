@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[63171],{63171:function(e,p,a){e.exports=a.p+"static/media/gigalith.29bad83c85f7b9f1e3a2.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[32840],{32840:function(e,c,p){e.exports=p.p+"static/media/arctozolt.acf3985dfae7c1312029.png"}}]);

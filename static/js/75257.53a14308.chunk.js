@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[75257],{75257:function(e,k,p){e.exports=p.p+"static/media/kricketot.893be6f206f40b1ca125.png"}}]);

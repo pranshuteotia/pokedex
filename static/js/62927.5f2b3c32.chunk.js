@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[62927],{62927:function(e,p,a){e.exports=a.p+"static/media/spinarak.d079814a90e14c377a1f.png"}}]);

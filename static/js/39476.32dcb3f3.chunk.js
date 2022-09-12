@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[39476],{39476:function(e,c,p){e.exports=p.p+"static/media/kirlia.c6f48f0276c756c94909.png"}}]);

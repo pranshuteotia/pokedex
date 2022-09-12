@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[34645],{34645:function(e,a,p){e.exports=p.p+"static/media/carvanha.67f65ce244364daabed8.png"}}]);

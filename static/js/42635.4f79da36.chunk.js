@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[42635],{42635:function(e,p,s){e.exports=s.p+"static/media/clefable.74e06e69682180025adb.png"}}]);

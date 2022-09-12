@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[86416],{86416:function(e,a,p){e.exports=p.p+"static/media/salamence.9226aaae9b5063965098.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[668],{668:function(e,f,p){e.exports=p.p+"static/media/leafeon.430ff779afecef10b6c3.png"}}]);

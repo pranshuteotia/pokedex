@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[57586],{57586:function(e,s,c){e.exports=c.p+"static/media/metagross.59cc4bbf359ac86042ff.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[4309],{4309:function(e,c,p){e.exports=p.p+"static/media/silicobra.35631a2980fe20b226cc.png"}}]);

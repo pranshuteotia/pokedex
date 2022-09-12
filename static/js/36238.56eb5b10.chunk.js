@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[36238],{36238:function(e,p,a){e.exports=a.p+"static/media/elekid.e77c8a193af9abc128f0.png"}}]);

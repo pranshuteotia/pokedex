@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[19777],{19777:function(e,k,p){e.exports=p.p+"static/media/kangaskhan.954fcb507e1d9639d8cf.png"}}]);

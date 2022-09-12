@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[64564],{64564:function(e,p,c){e.exports=c.p+"static/media/nuzleaf.4cd0e945680b598ac51e.png"}}]);

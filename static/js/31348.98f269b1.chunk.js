@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[31348],{31348:function(e,p,u){e.exports=u.p+"static/media/tapu-bulu.dd462dc78a62e1d5af7c.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[43157],{43157:function(e,p,s){e.exports=s.p+"static/media/shiinotic.1f730a616ea448663490.png"}}]);

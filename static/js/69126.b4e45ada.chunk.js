@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[69126],{69126:function(e,p,k){e.exports=k.p+"static/media/electrike.e12af1709f6154824d7e.png"}}]);

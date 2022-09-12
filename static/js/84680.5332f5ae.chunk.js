@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[84680],{84680:function(e,p,a){e.exports=a.p+"static/media/hawlucha.8625b86893c15f3e9a0b.png"}}]);

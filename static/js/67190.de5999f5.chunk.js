@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[67190],{67190:function(e,p,s){e.exports=s.p+"static/media/sliggoo.f59e13c988594d364333.png"}}]);

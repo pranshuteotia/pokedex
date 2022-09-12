@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[66321],{66321:function(e,p,a){e.exports=a.p+"static/media/magcargo.8a71996359b678fb42e7.png"}}]);

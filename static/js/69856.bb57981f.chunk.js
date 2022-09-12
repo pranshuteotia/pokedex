@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[69856],{69856:function(e,o,p){e.exports=p.p+"static/media/sudowoodo.7e188c1bd46e693fec15.png"}}]);

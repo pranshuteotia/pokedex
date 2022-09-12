@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[12060],{12060:function(e,p,b){e.exports=b.p+"static/media/togedemaru.8dbb5965bbea8b246f62.png"}}]);

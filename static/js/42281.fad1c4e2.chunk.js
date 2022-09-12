@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[42281],{42281:function(e,a,p){e.exports=p.p+"static/media/barbaracle.e790ff1aa35f6afc9abb.png"}}]);

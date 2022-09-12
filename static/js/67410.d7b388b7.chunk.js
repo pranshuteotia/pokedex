@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[67410],{67410:function(e,p,s){e.exports=s.p+"static/media/furret.0365274890f992683b9f.png"}}]);

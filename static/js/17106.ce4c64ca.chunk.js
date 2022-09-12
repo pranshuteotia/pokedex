@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[17106],{17106:function(e,p,a){e.exports=a.p+"static/media/pidgeot.4bc7de03e128a18d5a9a.png"}}]);

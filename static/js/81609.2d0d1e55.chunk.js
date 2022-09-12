@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[81609],{81609:function(e,p,a){e.exports=a.p+"static/media/gallade.ffb5f02b4e5ea89e0247.png"}}]);

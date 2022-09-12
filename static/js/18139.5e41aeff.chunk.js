@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[18139],{18139:function(e,a,f){e.exports=f.p+"static/media/wobbuffet.cc4aa4aaacfffe90a2f4.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[41389],{41389:function(e,p,s){e.exports=s.p+"static/media/sealeo.2b86b9cdbf2a4d88c8f7.png"}}]);

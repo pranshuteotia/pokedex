@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[28309],{28309:function(e,p,s){e.exports=s.p+"static/media/manaphy.83275f36902f5f76e923.png"}}]);

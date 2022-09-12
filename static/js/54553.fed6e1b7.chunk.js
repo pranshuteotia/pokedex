@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[54553],{54553:function(e,p,a){e.exports=a.p+"static/media/armaldo.03b9dded8fe3299f07a8.png"}}]);

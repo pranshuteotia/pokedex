@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[47985],{47985:function(e,c,p){e.exports=p.p+"static/media/gastrodon.51d362405e2c9dc84c23.png"}}]);

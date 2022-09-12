@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[45580],{45580:function(e,c,p){e.exports=p.p+"static/media/huntail.ccc67d722ee73e8d96a6.png"}}]);

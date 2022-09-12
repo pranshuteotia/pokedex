@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[57919],{57919:function(e,p,a){e.exports=a.p+"static/media/primarina.2ffe6215478ebb781caa.png"}}]);

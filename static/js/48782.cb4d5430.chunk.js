@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[48782],{48782:function(e,p,c){e.exports=c.p+"static/media/sizzlipede.876cc6e7ffaa852c8b49.png"}}]);

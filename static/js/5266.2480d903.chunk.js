@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[5266],{5266:function(e,p,a){e.exports=a.p+"static/media/venipede.66135a9b04a437ae52d0.png"}}]);

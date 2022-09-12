@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[89254],{89254:function(e,c,p){e.exports=p.p+"static/media/giratina.f26e8f4c499ab28dccd1.png"}}]);

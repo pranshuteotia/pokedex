@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[42305],{42305:function(e,c,p){e.exports=p.p+"static/media/croconaw.20cb2210a17b5087a94b.png"}}]);

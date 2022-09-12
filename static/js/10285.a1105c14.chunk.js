@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[10285],{10285:function(e,p,s){e.exports=s.p+"static/media/rapidash.4d740f76ec01486e8e6f.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[14853],{14853:function(e,c,p){e.exports=p.p+"static/media/dragonite.338377c141862dbc75cd.png"}}]);

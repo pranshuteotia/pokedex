@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[12278],{12278:function(e,p,s){e.exports=s.p+"static/media/runerigus.d74b1c3f9792ee3eebe1.png"}}]);

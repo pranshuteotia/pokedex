@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[11487],{11487:function(e,p,s){e.exports=s.p+"static/media/spoink.4f0394985685da63d175.png"}}]);

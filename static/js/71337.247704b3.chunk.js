@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[71337],{71337:function(e,p,k){e.exports=k.p+"static/media/rookidee.3032ec793b125be3eb28.png"}}]);

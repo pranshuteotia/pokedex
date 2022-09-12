@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[47778],{47778:function(e,a,p){e.exports=p.p+"static/media/gothorita.ee62fba6a870a4fd9bf9.png"}}]);

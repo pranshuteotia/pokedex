@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[59491],{59491:function(e,p,s){e.exports=s.p+"static/media/shedinja.519fa2e5500346974786.png"}}]);

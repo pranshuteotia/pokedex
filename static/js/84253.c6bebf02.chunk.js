@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[84253],{84253:function(e,p,c){e.exports=c.p+"static/media/oricorio.c4fd31590de61a2d08b5.png"}}]);

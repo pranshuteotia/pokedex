@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[2481],{2481:function(e,p,c){e.exports=c.p+"static/media/bewear.c5d25bd1e0c6852943b2.png"}}]);

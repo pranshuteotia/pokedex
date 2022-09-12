@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[12854],{12854:function(e,p,c){e.exports=c.p+"static/media/cufant.d733d17db856e5e7fe8c.png"}}]);

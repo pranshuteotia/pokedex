@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[63608],{63608:function(e,p,s){e.exports=s.p+"static/media/latios.76647ae02e22591335ba.png"}}]);

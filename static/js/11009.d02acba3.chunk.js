@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[11009],{11009:function(e,a,c){e.exports=c.p+"static/media/croagunk.35b4c1abb5523a5edac1.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[75272],{75272:function(e,p,f){e.exports=f.p+"static/media/bergmite.6ffa353afdb3418584fb.png"}}]);

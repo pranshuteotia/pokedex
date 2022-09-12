@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[13792],{13792:function(e,p,c){e.exports=c.p+"static/media/grapploct.7b9eaf3b7574c4440f15.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[65190],{65190:function(e,a,k){e.exports=k.p+"static/media/drakloak.336fa2a72063e1c22ca2.png"}}]);

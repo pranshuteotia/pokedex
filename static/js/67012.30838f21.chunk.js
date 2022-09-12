@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[67012],{67012:function(e,p,a){e.exports=a.p+"static/media/lileep.11a413a773a674b2da37.png"}}]);

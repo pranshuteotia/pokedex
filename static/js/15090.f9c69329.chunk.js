@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[15090],{15090:function(e,a,p){e.exports=p.p+"static/media/nincada.661a1d4fb74695b03aa9.png"}}]);

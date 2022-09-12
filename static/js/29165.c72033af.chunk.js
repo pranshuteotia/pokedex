@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[29165],{29165:function(e,p,a){e.exports=a.p+"static/media/talonflame.8b057269401f72193a3f.png"}}]);

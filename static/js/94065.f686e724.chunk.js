@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[94065],{94065:function(e,a,p){e.exports=p.p+"static/media/crabominable.26adabc36b938d2eeb3e.png"}}]);

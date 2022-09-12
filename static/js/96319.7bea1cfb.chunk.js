@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[96319],{96319:function(e,c,p){e.exports=p.p+"static/media/regidrago.cc7a96e19159142792c4.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[47893],{47893:function(e,p,s){e.exports=s.p+"static/media/bruxish.1ee887e46c43fa690917.png"}}]);
