@@ -18,7 +18,7 @@ const SearchBar = ({ displaySearch }: SearchBarProps) => {
   const [searchResults, setSearchResults] = useState<Array<string>>([]);
 
   const searchPokemon = (event: ChangeEvent<HTMLInputElement>) => {
-    const enteredQuery = event.target.value;
+    const enteredQuery = event.currentTarget.value;
     const fuseResults = fuse.search(enteredQuery).slice(0, 5);
     setSearchResults(fuseResults.map((result: FuseResult) => result.item));
     setSearchQuery(enteredQuery);

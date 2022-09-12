@@ -1,7 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronUp, faChevronDown } from "@fortawesome/free-solid-svg-icons";
-import { FastAverageColor } from "fast-average-color";
-import { useState } from "react";
 import { useSwipeable } from "react-swipeable";
 import { useSelector, useDispatch } from "react-redux";
 import {
@@ -13,14 +11,14 @@ import {
 interface DisplayProps {
   name: string;
   image: string;
+  bgColor: string;
 }
 
-const Display = ({ name, image }: DisplayProps) => {
+const Display = ({ name, image, bgColor }: DisplayProps) => {
   const dispatch = useDispatch();
   const searchDisplayed = useSelector(
     (state: any) => state.displaySearch.value
   );
-  const { bgColor } = useSelector((state: any) => state.pokemonData.value);
 
   const handlers = useSwipeable({
     onSwipedUp: () => hideSearchBar(),

@@ -1,6 +1,5 @@
 import { MouseEvent } from "react";
 import { fetchPokemonData } from "utils";
-import pokemon from "pokemon";
 import { useDispatch } from "react-redux";
 import { setPokemonData } from "reducers/pokemonDataReducer";
 
@@ -15,8 +14,7 @@ const SearchResults = ({ results, resetSearch }: SearchResultsProps) => {
   const searchResultClickHandler = async (event: MouseEvent<HTMLLIElement>) => {
     if (event.currentTarget.textContent) {
       const pokemonName: string = event.currentTarget.textContent;
-      const pokemonId = pokemon.getId(pokemonName);
-      const pokemonData = await fetchPokemonData(pokemonId);
+      const pokemonData = await fetchPokemonData(pokemonName);
       dispatch(setPokemonData(pokemonData));
       resetSearch();
     }

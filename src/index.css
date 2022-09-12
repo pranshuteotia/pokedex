@@ -42,6 +42,14 @@
     @apply px-8 py-1 m-1 rounded-full bg-green-300 flex-1
   }
 
+  .body-info-wrapper {
+    @apply flex justify-center
+  }
+
+  .body-info {
+    @apply flex flex-col m-2 flex-1 capitalize
+  }
+
   .pokemon-stats-wrapper {
     @apply mx-4 my-6 text-white
   }

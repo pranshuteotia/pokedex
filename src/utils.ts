@@ -1,29 +1,47 @@
 import { PokemonData } from "types";
-import axios from "axios";
 import { FastAverageColor } from "fast-average-color";
+import pokemonData from "pokemonInfo";
+import { Effectiveness, TypeEffectiveness } from "types";
 
-export const fetchPokemonData = async (pokemonId: number): Promise<PokemonData> => {
+export const fetchPokemonData = async (pokemonName: string): Promise<PokemonData> => {
+  const { id, name, type, height, weight, attack, defense, sp_atk, sp_def, speed, type_advantages } = pokemonData[pokemonName];
+  const image = await import(`images/${name}.png`);
 
-  const { data } = await axios.get(
-    `https://pokeapi.co/api/v2/pokemon/${pokemonId}/`
-  );
+  const imgObj = new Image()
+  imgObj.src = image.default
+  await imgObj.decode()
 
-  const name = data.name;
-  const image = data.sprites.other["official-artwork"].front_default;
-  const type = data.types.map((type: any) => type.type.name);
-  const stats = data.stats.map((stat: any) => {
-    return {
-      statType: stat.stat.name,
-      value: stat.base_stat,
-      percentage: Math.floor((stat.base_stat / 300) * 100),
-    };
-  });
+  const typeAdvantages: TypeEffectiveness = {superEffective: [], normalEffective: [], notVeryEffective: []};
+  for(const [type, effectiveness] of Object.entries(type_advantages)) {
+    if (effectiveness === Effectiveness.SUPER_EFFECTIVE) {
+      typeAdvantages.superEffective.push(type)
 
-  const img = new Image();
-  img.src = image;
-  img.crossOrigin = "anonymous";
-  await img.decode();
-  const { hex } = new FastAverageColor().getColor(img);
+    } else if (effectiveness === Effectiveness.NORMAL_EFFECTIVE) {
+      typeAdvantages.normalEffective.push(type);
+      
+    } else {
+      typeAdvantages.notVeryEffective.push(type);
+    }
+  }
 
-  return { name, image, type, stats, bgColor:hex }
+  const sanitizedPokemonData: PokemonData = {
+    id,
+    name,
+    height,
+    weight,
+    type: type.split(" "),
+    stats: [
+      { statType: "speed", value: speed, percentage: Math.floor((speed/300) * 100)},
+      { statType: "attack", value: attack, percentage: Math.floor((attack/300) * 100)},
+      { statType: "defense", value: defense, percentage: Math.floor((defense/300) * 100)},
+      { statType: "special-attack", value: sp_atk, percentage: Math.floor((sp_atk/300) * 100)},
+      { statType: "special-defense", value: sp_def, percentage: Math.floor((sp_def/300) * 100)},
+    ],
+    image: image.default,
+    typeAdvantages,
+    bgColor: new FastAverageColor().getColor(imgObj).hex,
+  }
+
+  return sanitizedPokemonData;
+
 }
