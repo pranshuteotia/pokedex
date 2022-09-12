@@ -14,15 +14,20 @@ function App() {
   const dispatch = useDispatch();
 
   const displaySearch = useSelector((state: any) => state.displaySearch.value);
-  const { name, image, type, stats, bgColor, height, weight }: PokemonData =
-    useSelector((state: any) => state.pokemonData.value);
+  const {
+    name,
+    image,
+    type,
+    stats,
+    bgColor,
+    height,
+    weight,
+    typeEffectiveness,
+  }: PokemonData = useSelector((state: any) => state.pokemonData.value);
 
   useEffect(() => {
     (async () => {
-      const randomPokemonName = pokemon
-        .random()
-        .replaceAll("'", "")
-        .toLocaleLowerCase();
+      const randomPokemonName = pokemon.random();
       const data = await fetchPokemonData(randomPokemonName);
       dispatch(setPokemonData(data));
     })();
@@ -34,7 +39,7 @@ function App() {
       <Display name={name} image={image} bgColor={bgColor} />
       <PokemonInfo name={name} type={type} height={height} weight={weight} />
       <PokemonStatsInfo stats={stats} />
-      <TypeEffectiveness />
+      <TypeEffectiveness typeEffectiveness={typeEffectiveness} />
     </div>
   );
 }

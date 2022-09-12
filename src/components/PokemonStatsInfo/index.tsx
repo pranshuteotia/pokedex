@@ -25,7 +25,7 @@ const PokemonStatsInfo = ({ stats }: PokemonStatsInfoProps) => {
 
   return (
     <div className="pokemon-stats-wrapper">
-      <p className="text-md text-center">Base Stats</p>
+      <h2>Base Stats</h2>
       <ul className="pokemon-stats">
         {stats.map((stat, idx) => (
           <li className="stat-wrapper" key={`stats-${idx}`}>

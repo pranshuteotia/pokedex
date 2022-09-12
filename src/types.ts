@@ -11,7 +11,7 @@ export interface PokemonData {
   stats: Array<PokemonStats>
   height: string;
   weight: string;
-  typeAdvantages: TypeEffectiveness;
+  typeEffectiveness: TypeEffectivenessData;
   bgColor: string;
 }
 
@@ -21,7 +21,7 @@ export interface PokemonStats {
   percentage: number;
 }
 
-export interface TypeEffectiveness {
+export interface TypeEffectivenessData {
   superEffective: Array<string>;
   notVeryEffective: Array<string>;
   normalEffective: Array<string>;

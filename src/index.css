@@ -2,9 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  h2 {
+    @apply text-center text-lg underline decoration-red-400 underline-offset-8
+  }
+
+  h3 {
+    @apply text-center text-base
+  }
+}
+
 @layer components {
   .App {
-    @apply bg-neutral-800 h-screen p-2
+    @apply bg-neutral-800 p-2
   }
 
   .search-bar {
@@ -39,7 +49,7 @@
   }
 
   .poke-type {
-    @apply px-8 py-1 m-1 rounded-full bg-green-300 flex-1
+    @apply px-8 py-1 m-1 rounded-full bg-green-300 flex-1 uppercase text-center
   }
 
   .body-info-wrapper {
@@ -72,6 +82,18 @@
 
   .stat-value {
     @apply absolute top-0 -translate-x-1/2 text-black font-bold
+  }
+
+  .type-effectiveness {
+    @apply text-white mt-8
+  }
+
+  .effectiveness {
+    @apply mt-8 mb-4
+  }
+
+  .type-container {
+    @apply grid grid-cols-2 w-[80%] m-auto
   }
 
   /* STAT Classes*/

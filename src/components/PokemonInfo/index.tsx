@@ -8,7 +8,7 @@ interface PokemonInfoProps {
 const PokemonInfo = ({ name, type, height, weight }: PokemonInfoProps) => {
   return (
     <div className="poke-info">
-      <p className="text-4xl capitalize">{name}</p>
+      <h1 className="text-4xl capitalize">{name}</h1>
       <div
         className={`flex my-4 w-4/5 mx-auto ${type.length === 1 && "w-1/3"}`}
       >
